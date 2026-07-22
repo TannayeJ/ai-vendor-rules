@@ -1,0 +1,8 @@
+# AUTO-GENERATED. DO NOT EDIT.
+# Name: Moonshot AI / Kimi
+# Upstream: v2fly/domain-list-community@b086c38db74b626c0a24fdd8ed41e33515577bf9
+# Sources: catalog inline domains
+# Policy: Kimi
+HOST-SUFFIX,kimi.com,Kimi
+HOST-SUFFIX,moonshot.ai,Kimi
+HOST-SUFFIX,moonshot.cn,Kimi

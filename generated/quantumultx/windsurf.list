@@ -1,0 +1,9 @@
+# AUTO-GENERATED. DO NOT EDIT.
+# Name: Windsurf
+# Upstream: v2fly/domain-list-community@b086c38db74b626c0a24fdd8ed41e33515577bf9
+# Sources: windsurf
+# Policy: Windsurf
+HOST-SUFFIX,codeium.com,Windsurf
+HOST-SUFFIX,codeiumdata.com,Windsurf
+HOST-SUFFIX,windsurf.build,Windsurf
+HOST-SUFFIX,windsurf.com,Windsurf

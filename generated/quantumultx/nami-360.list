@@ -1,0 +1,8 @@
+# AUTO-GENERATED. DO NOT EDIT.
+# Name: 360 Nami AI
+# Upstream: v2fly/domain-list-community@b086c38db74b626c0a24fdd8ed41e33515577bf9
+# Sources: catalog inline domains
+# Policy: 360 Nami
+HOST,ai.zhaomi.cn,360 Nami
+HOST-SUFFIX,n.cn,360 Nami
+HOST-SUFFIX,namiso.com,360 Nami

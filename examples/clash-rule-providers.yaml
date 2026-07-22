@@ -1,0 +1,42 @@
+# Add these groups/providers/rules to an existing Clash/Mihomo configuration.
+# Put vendor-specific rules before all-ai.
+
+proxy-groups:
+  - { name: Claude, type: select, proxies: [代理选择, DIRECT] }
+  - { name: OpenAI, type: select, proxies: [代理选择, DIRECT] }
+  - { name: Grok, type: select, proxies: [代理选择, DIRECT] }
+  - { name: Gemini, type: select, proxies: [代理选择, DIRECT] }
+  - { name: AI, type: select, proxies: [代理选择, DIRECT] }
+
+rule-providers:
+  claude: &ai_provider
+    type: http
+    behavior: classical
+    format: yaml
+    interval: 86400
+    url: https://raw.githubusercontent.com/TannayeJ/ai-vendor-rules/main/generated/clash/claude.yaml
+    path: ./ruleset/ai/claude.yaml
+  openai:
+    <<: *ai_provider
+    url: https://raw.githubusercontent.com/TannayeJ/ai-vendor-rules/main/generated/clash/openai.yaml
+    path: ./ruleset/ai/openai.yaml
+  grok:
+    <<: *ai_provider
+    url: https://raw.githubusercontent.com/TannayeJ/ai-vendor-rules/main/generated/clash/grok.yaml
+    path: ./ruleset/ai/grok.yaml
+  gemini:
+    <<: *ai_provider
+    url: https://raw.githubusercontent.com/TannayeJ/ai-vendor-rules/main/generated/clash/gemini.yaml
+    path: ./ruleset/ai/gemini.yaml
+  all-ai:
+    <<: *ai_provider
+    url: https://raw.githubusercontent.com/TannayeJ/ai-vendor-rules/main/generated/clash/all-ai.yaml
+    path: ./ruleset/ai/all-ai.yaml
+
+rules:
+  - RULE-SET,claude,Claude
+  - RULE-SET,openai,OpenAI
+  - RULE-SET,grok,Grok
+  - RULE-SET,gemini,Gemini
+  - RULE-SET,all-ai,AI
+

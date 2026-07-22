@@ -1,0 +1,37 @@
+# AUTO-GENERATED. DO NOT EDIT.
+# Name: ByteDance Doubao / Coze
+# Upstream: v2fly/domain-list-community@b086c38db74b626c0a24fdd8ed41e33515577bf9
+# Sources: doubao
+# Policy: Doubao
+HOST-SUFFIX,api-building.fun,Doubao
+HOST-SUFFIX,building.fun,Doubao
+HOST-SUFFIX,butterfly-static.cn,Doubao
+HOST-SUFFIX,butterflyai.cn,Doubao
+HOST-SUFFIX,coze-dns-01.com,Doubao
+HOST-SUFFIX,coze.cn,Doubao
+HOST-SUFFIX,coze.email,Doubao
+HOST-SUFFIX,coze.site,Doubao
+HOST-SUFFIX,cozeapp.net,Doubao
+HOST-SUFFIX,cozebaas.cn,Doubao
+HOST-SUFFIX,cozebuild.com,Doubao
+HOST-SUFFIX,cozecdn.com,Doubao
+HOST-SUFFIX,cozedeploy.com,Doubao
+HOST-SUFFIX,cozefn.cn,Doubao
+HOST-SUFFIX,cozeide.cn,Doubao
+HOST-SUFFIX,cozesdk.com,Doubao
+HOST-SUFFIX,cozetest.cn,Doubao
+HOST-SUFFIX,cozetest2.cn,Doubao
+HOST-SUFFIX,cozetest3.cn,Doubao
+HOST-SUFFIX,dbbuilding.fun,Doubao
+HOST-SUFFIX,doubao-dev.com,Doubao
+HOST-SUFFIX,doubao.com,Doubao
+HOST-SUFFIX,doubaocdn.com,Doubao
+HOST-SUFFIX,hi-butterfly.cn,Doubao
+HOST-SUFFIX,instreet.com,Doubao
+HOST-SUFFIX,maoxiangai.com,Doubao
+HOST-SUFFIX,myparallelstory.com,Doubao
+HOST-SUFFIX,obriccloud.com,Doubao
+HOST-SUFFIX,obricclouddw.com,Doubao
+HOST-SUFFIX,oceancloudapi.com,Doubao
+HOST-SUFFIX,picpic-ai.cn,Doubao
+HOST-SUFFIX,pixeldance.com,Doubao

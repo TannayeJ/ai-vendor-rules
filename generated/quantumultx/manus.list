@@ -1,0 +1,7 @@
+# AUTO-GENERATED. DO NOT EDIT.
+# Name: Manus
+# Upstream: v2fly/domain-list-community@b086c38db74b626c0a24fdd8ed41e33515577bf9
+# Sources: manus
+# Policy: Manus
+HOST-SUFFIX,manus.im,Manus
+HOST-SUFFIX,manuscdn.com,Manus

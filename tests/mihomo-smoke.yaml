@@ -1,0 +1,45 @@
+mixed-port: 7893
+mode: rule
+log-level: warning
+
+proxy-groups:
+  - { name: Claude, type: select, proxies: [DIRECT] }
+  - { name: OpenAI, type: select, proxies: [DIRECT] }
+  - { name: Grok, type: select, proxies: [DIRECT] }
+  - { name: Gemini, type: select, proxies: [DIRECT] }
+  - { name: AI, type: select, proxies: [DIRECT] }
+
+rule-providers:
+  claude:
+    type: file
+    behavior: classical
+    format: yaml
+    path: ./generated/clash/claude.yaml
+  openai:
+    type: file
+    behavior: classical
+    format: yaml
+    path: ./generated/clash/openai.yaml
+  grok:
+    type: file
+    behavior: classical
+    format: yaml
+    path: ./generated/clash/grok.yaml
+  gemini:
+    type: file
+    behavior: classical
+    format: yaml
+    path: ./generated/clash/gemini.yaml
+  all-ai:
+    type: file
+    behavior: classical
+    format: yaml
+    path: ./generated/clash/all-ai.yaml
+
+rules:
+  - RULE-SET,claude,Claude
+  - RULE-SET,openai,OpenAI
+  - RULE-SET,grok,Grok
+  - RULE-SET,gemini,Gemini
+  - RULE-SET,all-ai,AI
+  - MATCH,DIRECT

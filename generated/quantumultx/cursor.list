@@ -1,0 +1,9 @@
+# AUTO-GENERATED. DO NOT EDIT.
+# Name: Cursor
+# Upstream: v2fly/domain-list-community@b086c38db74b626c0a24fdd8ed41e33515577bf9
+# Sources: cursor
+# Policy: Cursor
+HOST-SUFFIX,cursor-cdn.com,Cursor
+HOST-SUFFIX,cursor.com,Cursor
+HOST-SUFFIX,cursor.sh,Cursor
+HOST-SUFFIX,cursorapi.com,Cursor

@@ -1,0 +1,611 @@
+{
+  "schema": 1,
+  "upstream": "v2fly/domain-list-community",
+  "upstream_revision": "b086c38db74b626c0a24fdd8ed41e33515577bf9",
+  "vendor_count": 65,
+  "aggregate_count": 3,
+  "entries": [
+    {
+      "id": "claude",
+      "name": "Anthropic / Claude",
+      "policy": "Claude",
+      "rule_count": 8,
+      "quantumultx_unsupported_regex": 0,
+      "sources": [
+        "anthropic"
+      ]
+    },
+    {
+      "id": "openai",
+      "name": "OpenAI / ChatGPT / Sora",
+      "policy": "OpenAI",
+      "rule_count": 20,
+      "quantumultx_unsupported_regex": 0,
+      "sources": [
+        "openai"
+      ]
+    },
+    {
+      "id": "grok",
+      "name": "xAI / Grok",
+      "policy": "Grok",
+      "rule_count": 3,
+      "quantumultx_unsupported_regex": 0,
+      "sources": [
+        "xai"
+      ]
+    },
+    {
+      "id": "gemini",
+      "name": "Google Gemini / DeepMind / NotebookLM",
+      "policy": "Gemini",
+      "rule_count": 40,
+      "quantumultx_unsupported_regex": 0,
+      "sources": [
+        "google-deepmind"
+      ]
+    },
+    {
+      "id": "perplexity",
+      "name": "Perplexity",
+      "policy": "Perplexity",
+      "rule_count": 5,
+      "quantumultx_unsupported_regex": 0,
+      "sources": [
+        "perplexity"
+      ]
+    },
+    {
+      "id": "groq",
+      "name": "Groq",
+      "policy": "Groq",
+      "rule_count": 1,
+      "quantumultx_unsupported_regex": 0,
+      "sources": [
+        "groq"
+      ]
+    },
+    {
+      "id": "github-copilot",
+      "name": "GitHub Copilot",
+      "policy": "GitHub Copilot",
+      "rule_count": 4,
+      "quantumultx_unsupported_regex": 0,
+      "sources": [
+        "github-copilot"
+      ]
+    },
+    {
+      "id": "microsoft-copilot",
+      "name": "Microsoft Copilot",
+      "policy": "Microsoft Copilot",
+      "rule_count": 4,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "cursor",
+      "name": "Cursor",
+      "policy": "Cursor",
+      "rule_count": 4,
+      "quantumultx_unsupported_regex": 0,
+      "sources": [
+        "cursor"
+      ]
+    },
+    {
+      "id": "windsurf",
+      "name": "Windsurf",
+      "policy": "Windsurf",
+      "rule_count": 4,
+      "quantumultx_unsupported_regex": 0,
+      "sources": [
+        "windsurf"
+      ]
+    },
+    {
+      "id": "poe",
+      "name": "Poe",
+      "policy": "Poe",
+      "rule_count": 2,
+      "quantumultx_unsupported_regex": 0,
+      "sources": [
+        "poe"
+      ]
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face",
+      "policy": "Hugging Face",
+      "rule_count": 3,
+      "quantumultx_unsupported_regex": 0,
+      "sources": [
+        "huggingface"
+      ]
+    },
+    {
+      "id": "cerebras",
+      "name": "Cerebras",
+      "policy": "Cerebras",
+      "rule_count": 1,
+      "quantumultx_unsupported_regex": 0,
+      "sources": [
+        "cerebras"
+      ]
+    },
+    {
+      "id": "elevenlabs",
+      "name": "ElevenLabs",
+      "policy": "ElevenLabs",
+      "rule_count": 2,
+      "quantumultx_unsupported_regex": 0,
+      "sources": [
+        "elevenlabs"
+      ]
+    },
+    {
+      "id": "manus",
+      "name": "Manus",
+      "policy": "Manus",
+      "rule_count": 2,
+      "quantumultx_unsupported_regex": 0,
+      "sources": [
+        "manus"
+      ]
+    },
+    {
+      "id": "youmind",
+      "name": "YouMind",
+      "policy": "YouMind",
+      "rule_count": 3,
+      "quantumultx_unsupported_regex": 0,
+      "sources": [
+        "youmind"
+      ]
+    },
+    {
+      "id": "comfyui",
+      "name": "ComfyUI",
+      "policy": "ComfyUI",
+      "rule_count": 4,
+      "quantumultx_unsupported_regex": 0,
+      "sources": [
+        "comfy"
+      ]
+    },
+    {
+      "id": "envato-ai",
+      "name": "Envato AI",
+      "policy": "Envato AI",
+      "rule_count": 4,
+      "quantumultx_unsupported_regex": 0,
+      "sources": [
+        "envato"
+      ]
+    },
+    {
+      "id": "liveperson",
+      "name": "LivePerson",
+      "policy": "LivePerson",
+      "rule_count": 2,
+      "quantumultx_unsupported_regex": 0,
+      "sources": [
+        "liveperson"
+      ]
+    },
+    {
+      "id": "bytedance-ai-global",
+      "name": "ByteDance AI Global",
+      "policy": "ByteDance AI",
+      "rule_count": 7,
+      "quantumultx_unsupported_regex": 0,
+      "sources": [
+        "bytedance-ai-!cn"
+      ]
+    },
+    {
+      "id": "dola",
+      "name": "Dola",
+      "policy": "Dola",
+      "rule_count": 4,
+      "quantumultx_unsupported_regex": 0,
+      "sources": [
+        "dola"
+      ]
+    },
+    {
+      "id": "cohere",
+      "name": "Cohere",
+      "policy": "Cohere",
+      "rule_count": 2,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "coderabbit",
+      "name": "CodeRabbit",
+      "policy": "CodeRabbit",
+      "rule_count": 2,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "jasper",
+      "name": "Jasper",
+      "policy": "Jasper",
+      "rule_count": 2,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "mistral",
+      "name": "Mistral AI",
+      "policy": "Mistral",
+      "rule_count": 1,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "meta-ai",
+      "name": "Meta AI",
+      "policy": "Meta AI",
+      "rule_count": 1,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "midjourney",
+      "name": "Midjourney",
+      "policy": "Midjourney",
+      "rule_count": 1,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "character-ai",
+      "name": "Character.AI",
+      "policy": "Character AI",
+      "rule_count": 2,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "stability-ai",
+      "name": "Stability AI",
+      "policy": "Stability AI",
+      "rule_count": 2,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "suno",
+      "name": "Suno",
+      "policy": "Suno",
+      "rule_count": 2,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "runway",
+      "name": "Runway",
+      "policy": "Runway",
+      "rule_count": 1,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "pika",
+      "name": "Pika",
+      "policy": "Pika",
+      "rule_count": 2,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "ollama",
+      "name": "Ollama",
+      "policy": "Ollama",
+      "rule_count": 1,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "openrouter",
+      "name": "OpenRouter",
+      "policy": "OpenRouter",
+      "rule_count": 1,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "lmstudio",
+      "name": "LM Studio",
+      "policy": "LM Studio",
+      "rule_count": 1,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "langchain",
+      "name": "LangChain",
+      "policy": "LangChain",
+      "rule_count": 1,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "devin",
+      "name": "Devin",
+      "policy": "Devin",
+      "rule_count": 1,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "dify",
+      "name": "Dify",
+      "policy": "Dify",
+      "rule_count": 1,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "duck-ai",
+      "name": "Duck.ai",
+      "policy": "Duck AI",
+      "rule_count": 1,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "cloudflare-ai",
+      "name": "Cloudflare AI Gateway",
+      "policy": "Cloudflare AI",
+      "rule_count": 1,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "h2o-ai",
+      "name": "H2O.ai",
+      "policy": "H2O AI",
+      "rule_count": 1,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "openart",
+      "name": "OpenArt",
+      "policy": "OpenArt",
+      "rule_count": 1,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "openclaw",
+      "name": "OpenClaw",
+      "policy": "OpenClaw",
+      "rule_count": 1,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "deepseek",
+      "name": "DeepSeek",
+      "policy": "DeepSeek",
+      "rule_count": 1,
+      "quantumultx_unsupported_regex": 0,
+      "sources": [
+        "deepseek"
+      ]
+    },
+    {
+      "id": "doubao",
+      "name": "ByteDance Doubao / Coze",
+      "policy": "Doubao",
+      "rule_count": 32,
+      "quantumultx_unsupported_regex": 0,
+      "sources": [
+        "doubao"
+      ]
+    },
+    {
+      "id": "trae",
+      "name": "TRAE / MarsCode",
+      "policy": "TRAE",
+      "rule_count": 12,
+      "quantumultx_unsupported_regex": 0,
+      "sources": [
+        "trae"
+      ]
+    },
+    {
+      "id": "xiaomi-ai",
+      "name": "Xiaomi AI",
+      "policy": "Xiaomi AI",
+      "rule_count": 3,
+      "quantumultx_unsupported_regex": 0,
+      "sources": [
+        "xiaomi-ai"
+      ]
+    },
+    {
+      "id": "askdiandian",
+      "name": "Ask Diandian",
+      "policy": "Ask Diandian",
+      "rule_count": 2,
+      "quantumultx_unsupported_regex": 0,
+      "sources": [
+        "askdiandian"
+      ]
+    },
+    {
+      "id": "qwen",
+      "name": "Alibaba Qwen / Tongyi",
+      "policy": "Qwen",
+      "rule_count": 6,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "zhipu",
+      "name": "Zhipu AI / ChatGLM",
+      "policy": "Zhipu AI",
+      "rule_count": 5,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "kimi",
+      "name": "Moonshot AI / Kimi",
+      "policy": "Kimi",
+      "rule_count": 3,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "spark",
+      "name": "iFlytek Spark",
+      "policy": "Spark",
+      "rule_count": 1,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "minimax",
+      "name": "MiniMax / Hailuo",
+      "policy": "MiniMax",
+      "rule_count": 4,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "tencent-ai",
+      "name": "Tencent Hunyuan / Yuanbao / CodeBuddy",
+      "policy": "Tencent AI",
+      "rule_count": 4,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "baichuan",
+      "name": "Baichuan AI",
+      "policy": "Baichuan",
+      "rule_count": 1,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "baidu-ernie",
+      "name": "Baidu ERNIE / Wenxin",
+      "policy": "Baidu AI",
+      "rule_count": 2,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "kling",
+      "name": "Kuaishou Kling AI",
+      "policy": "Kling AI",
+      "rule_count": 3,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "metaso",
+      "name": "Metaso / Xiezuocat",
+      "policy": "Metaso",
+      "rule_count": 3,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "liblibai",
+      "name": "LibLibAI",
+      "policy": "LibLibAI",
+      "rule_count": 3,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "rwkv",
+      "name": "RWKV",
+      "policy": "RWKV",
+      "rule_count": 2,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "tiangong",
+      "name": "Tiangong AI",
+      "policy": "Tiangong",
+      "rule_count": 1,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "quark-cueme",
+      "name": "Quark CueMe",
+      "policy": "Quark CueMe",
+      "rule_count": 2,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "nami-360",
+      "name": "360 Nami AI",
+      "policy": "360 Nami",
+      "rule_count": 3,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "mcpworld",
+      "name": "MCP World",
+      "policy": "MCP World",
+      "rule_count": 1,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "aispeech",
+      "name": "AISpeech / DUI",
+      "policy": "AISpeech",
+      "rule_count": 3,
+      "quantumultx_unsupported_regex": 0,
+      "sources": []
+    },
+    {
+      "id": "all-ai",
+      "name": "All AI Services",
+      "policy": "AI",
+      "rule_count": 286,
+      "quantumultx_unsupported_regex": 0,
+      "sources": [
+        "category-ai-!cn",
+        "category-ai-cn",
+        "category-ai-ru"
+      ]
+    },
+    {
+      "id": "all-ai-global",
+      "name": "All Non-CN AI Services",
+      "policy": "AI",
+      "rule_count": 162,
+      "quantumultx_unsupported_regex": 0,
+      "sources": [
+        "category-ai-!cn"
+      ]
+    },
+    {
+      "id": "all-ai-cn",
+      "name": "All CN AI Services",
+      "policy": "AI-CN",
+      "rule_count": 112,
+      "quantumultx_unsupported_regex": 0,
+      "sources": [
+        "category-ai-cn"
+      ]
+    }
+  ]
+}

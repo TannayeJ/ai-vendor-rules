@@ -1,0 +1,9 @@
+# AUTO-GENERATED. DO NOT EDIT.
+# Name: Microsoft Copilot
+# Upstream: v2fly/domain-list-community@b086c38db74b626c0a24fdd8ed41e33515577bf9
+# Sources: catalog inline domains
+# Policy: Microsoft Copilot
+HOST-SUFFIX,copilot-stg.com,Microsoft Copilot
+HOST-SUFFIX,copilot.cloud.microsoft,Microsoft Copilot
+HOST-SUFFIX,copilot.com,Microsoft Copilot
+HOST-SUFFIX,copilot.microsoft.com,Microsoft Copilot

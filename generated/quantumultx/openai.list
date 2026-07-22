@@ -1,0 +1,25 @@
+# AUTO-GENERATED. DO NOT EDIT.
+# Name: OpenAI / ChatGPT / Sora
+# Upstream: v2fly/domain-list-community@b086c38db74b626c0a24fdd8ed41e33515577bf9
+# Sources: openai
+# Policy: OpenAI
+HOST,openaiapi-site.azureedge.net,OpenAI
+HOST,openaiassets.blob.core.windows.net,OpenAI
+HOST,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,OpenAI
+HOST,openaicom.imgix.net,OpenAI
+HOST,openaicomproductionae4b.blob.core.windows.net,OpenAI
+HOST,production-openaicom-storage.azureedge.net,OpenAI
+HOST-SUFFIX,chat.com,OpenAI
+HOST-SUFFIX,chatgpt.com,OpenAI
+HOST-SUFFIX,chatgpt.livekit.cloud,OpenAI
+HOST-SUFFIX,chatgpt.site,OpenAI
+HOST-SUFFIX,crixet.com,OpenAI
+HOST-SUFFIX,host.livekit.cloud,OpenAI
+HOST-SUFFIX,oaistatic.com,OpenAI
+HOST-SUFFIX,oaistatsig.com,OpenAI
+HOST-SUFFIX,oaiusercontent.com,OpenAI
+HOST-SUFFIX,openai.com,OpenAI
+HOST-SUFFIX,openai.com.cdn.cloudflare.net,OpenAI
+HOST-SUFFIX,sora.com,OpenAI
+HOST-SUFFIX,turn.livekit.cloud,OpenAI
+HOST-WILDCARD,chatgpt-async-webps-prod-*-*.webpubsub.azure.com,OpenAI

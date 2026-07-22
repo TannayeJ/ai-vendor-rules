@@ -1,0 +1,9 @@
+# AUTO-GENERATED. DO NOT EDIT.
+# Name: Tencent Hunyuan / Yuanbao / CodeBuddy
+# Upstream: v2fly/domain-list-community@b086c38db74b626c0a24fdd8ed41e33515577bf9
+# Sources: catalog inline domains
+# Policy: Tencent AI
+HOST,codebuddy.cn,Tencent AI
+HOST,hunyuan.tencent.com,Tencent AI
+HOST,yuanbao.tencent.com,Tencent AI
+HOST,yuanqi.tencent.com,Tencent AI

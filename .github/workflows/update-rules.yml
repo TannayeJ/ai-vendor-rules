@@ -1,0 +1,35 @@
+name: Update upstream rules
+
+on:
+  schedule:
+    - cron: "23 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Generate and validate
+        run: |
+          git clone --depth 1 https://github.com/v2fly/domain-list-community.git "$RUNNER_TEMP/domain-list-community"
+          python3 scripts/generate.py --source-root "$RUNNER_TEMP/domain-list-community/data"
+          python3 scripts/validate.py
+      - name: Commit upstream changes
+        run: |
+          if git diff --quiet -- generated; then
+            echo "No upstream changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add generated
+          git commit -m "chore: update upstream AI rules"
+          git push
+

@@ -1,0 +1,13 @@
+# AUTO-GENERATED. DO NOT EDIT.
+# Name: Anthropic / Claude
+# Upstream: v2fly/domain-list-community@b086c38db74b626c0a24fdd8ed41e33515577bf9
+# Sources: anthropic
+# Policy: Claude
+HOST,servd-anthropic-website.b-cdn.net,Claude
+HOST-SUFFIX,anthropic.com,Claude
+HOST-SUFFIX,clau.de,Claude
+HOST-SUFFIX,claude.ai,Claude
+HOST-SUFFIX,claude.com,Claude
+HOST-SUFFIX,claudemcpclient.com,Claude
+HOST-SUFFIX,claudemcpcontent.com,Claude
+HOST-SUFFIX,claudeusercontent.com,Claude

@@ -1,0 +1,45 @@
+# AUTO-GENERATED. DO NOT EDIT.
+# Name: Google Gemini / DeepMind / NotebookLM
+# Upstream: v2fly/domain-list-community@b086c38db74b626c0a24fdd8ed41e33515577bf9
+# Sources: google-deepmind
+# Policy: Gemini
+HOST,ai.google.dev,Gemini
+HOST,alkalicore-pa.clients6.google.com,Gemini
+HOST,alkalimakersuite-pa.clients6.google.com,Gemini
+HOST,antigravity-pa.googleapis.com,Gemini
+HOST,antigravity.googleapis.com,Gemini
+HOST,cloudaicompanion.googleapis.com,Gemini
+HOST,cloudcode-pa.googleapis.com,Gemini
+HOST,daily-cloudcode-pa.googleapis.com,Gemini
+HOST,notebooklm-pa.googleapis.com,Gemini
+HOST,notebooklm.googleapis.com,Gemini
+HOST,webchannel-alkalimakersuite-pa.clients6.google.com,Gemini
+HOST-SUFFIX,ai.studio,Gemini
+HOST-SUFFIX,aicode.googleapis.com,Gemini
+HOST-SUFFIX,aida.googleapis.com,Gemini
+HOST-SUFFIX,aisandbox-pa.googleapis.com,Gemini
+HOST-SUFFIX,aistudio.google.com,Gemini
+HOST-SUFFIX,antigravity-unleash.goog,Gemini
+HOST-SUFFIX,antigravity.google,Gemini
+HOST-SUFFIX,bard.google.com,Gemini
+HOST-SUFFIX,deepmind.com,Gemini
+HOST-SUFFIX,deepmind.google,Gemini
+HOST-SUFFIX,flow.google,Gemini
+HOST-SUFFIX,geller-pa.googleapis.com,Gemini
+HOST-SUFFIX,gemini.google,Gemini
+HOST-SUFFIX,gemini.google.com,Gemini
+HOST-SUFFIX,gemini.gstatic.com,Gemini
+HOST-SUFFIX,generativeai.google,Gemini
+HOST-SUFFIX,generativelanguage.googleapis.com,Gemini
+HOST-SUFFIX,jules.google,Gemini
+HOST-SUFFIX,jules.google.com,Gemini
+HOST-SUFFIX,labs.google,Gemini
+HOST-SUFFIX,labs.google.com,Gemini
+HOST-SUFFIX,makersuite.google.com,Gemini
+HOST-SUFFIX,notebooklm.google,Gemini
+HOST-SUFFIX,notebooklm.google.com,Gemini
+HOST-SUFFIX,opal.google,Gemini
+HOST-SUFFIX,opal.google.com,Gemini
+HOST-SUFFIX,proactivebackend-pa.googleapis.com,Gemini
+HOST-SUFFIX,robinfrontend-pa.googleapis.com,Gemini
+HOST-SUFFIX,stitch.withgoogle.com,Gemini

@@ -1,0 +1,8 @@
+# AUTO-GENERATED. DO NOT EDIT.
+# Name: xAI / Grok
+# Upstream: v2fly/domain-list-community@b086c38db74b626c0a24fdd8ed41e33515577bf9
+# Sources: xai
+# Policy: Grok
+HOST-SUFFIX,grok.com,Grok
+HOST-SUFFIX,grok.x.com,Grok
+HOST-SUFFIX,x.ai,Grok
