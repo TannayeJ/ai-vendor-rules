@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: OpenArt
-# Upstream: v2fly/domain-list-community@54331fc1d3795e8344eac19e1155d5c5b57329ca
+# Upstream: v2fly/domain-list-community@4c822d86d3ab2a39db795ecf25c975e700dcdb07
 # Sources: catalog inline domains
 # Policy: OpenArt
 HOST-SUFFIX,openart.ai,OpenArt
