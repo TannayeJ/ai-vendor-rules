@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: Cloudflare AI Gateway
-# Upstream: v2fly/domain-list-community@4c822d86d3ab2a39db795ecf25c975e700dcdb07
+# Upstream: v2fly/domain-list-community@d1f57ee2c53cdbf726854de67a7df221e2a61466
 # Sources: catalog inline domains
 payload:
   - DOMAIN,gateway.ai.cloudflare.com

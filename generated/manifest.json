@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "upstream": "v2fly/domain-list-community",
-  "upstream_revision": "4c822d86d3ab2a39db795ecf25c975e700dcdb07",
+  "upstream_revision": "d1f57ee2c53cdbf726854de67a7df221e2a61466",
   "vendor_count": 65,
   "aggregate_count": 3,
   "entries": [
@@ -29,7 +29,7 @@
       "id": "grok",
       "name": "xAI / Grok",
       "policy": "Grok",
-      "rule_count": 3,
+      "rule_count": 4,
       "quantumultx_unsupported_regex": 0,
       "sources": [
         "xai"
@@ -579,7 +579,7 @@
       "id": "all-ai",
       "name": "All AI Services",
       "policy": "AI",
-      "rule_count": 286,
+      "rule_count": 287,
       "quantumultx_unsupported_regex": 0,
       "sources": [
         "category-ai-!cn",
@@ -591,7 +591,7 @@
       "id": "all-ai-global",
       "name": "All Non-CN AI Services",
       "policy": "AI",
-      "rule_count": 162,
+      "rule_count": 163,
       "quantumultx_unsupported_regex": 0,
       "sources": [
         "category-ai-!cn"

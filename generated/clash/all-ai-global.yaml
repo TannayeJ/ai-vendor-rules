@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All Non-CN AI Services
-# Upstream: v2fly/domain-list-community@4c822d86d3ab2a39db795ecf25c975e700dcdb07
+# Upstream: v2fly/domain-list-community@d1f57ee2c53cdbf726854de67a7df221e2a61466
 # Sources: category-ai-!cn
 payload:
   - DOMAIN,ai.google.dev
@@ -99,6 +99,7 @@ payload:
   - DOMAIN-SUFFIX,githubcopilot.com
   - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,grok.x.com
+  - DOMAIN-SUFFIX,grokipedia.com
   - DOMAIN-SUFFIX,groq.com
   - DOMAIN-SUFFIX,h2o.ai
   - DOMAIN-SUFFIX,hf.co
