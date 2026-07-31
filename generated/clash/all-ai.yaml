@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All AI Services
-# Upstream: v2fly/domain-list-community@f54a72c2fc66dacb6be307b579cadf1e959ce768
+# Upstream: v2fly/domain-list-community@c2aeccd66385a149515d7498008e5100f74ab8cf
 # Sources: category-ai-!cn, category-ai-cn, category-ai-ru
 payload:
   - DOMAIN,ai.google.dev
@@ -249,6 +249,7 @@ payload:
   - DOMAIN-SUFFIX,rwkv.cn
   - DOMAIN-SUFFIX,rwkv.com
   - DOMAIN-SUFFIX,safeskill.cn
+  - DOMAIN-SUFFIX,shunjing.xin
   - DOMAIN-SUFFIX,sider.ai
   - DOMAIN-SUFFIX,skillhub.cn
   - DOMAIN-SUFFIX,sleeplesshorizon.cn

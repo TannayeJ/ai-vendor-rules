@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: Dola
-# Upstream: v2fly/domain-list-community@f54a72c2fc66dacb6be307b579cadf1e959ce768
+# Upstream: v2fly/domain-list-community@c2aeccd66385a149515d7498008e5100f74ab8cf
 # Sources: dola
 payload:
   - DOMAIN-SUFFIX,cici.com
