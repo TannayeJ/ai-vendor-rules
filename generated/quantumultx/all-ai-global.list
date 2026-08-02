@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All Non-CN AI Services
-# Upstream: v2fly/domain-list-community@c2aeccd66385a149515d7498008e5100f74ab8cf
+# Upstream: v2fly/domain-list-community@660198a50bac2ab10c567d95a472a7b33915d1b0
 # Sources: category-ai-!cn
 # Policy: AI
 HOST,ai.google.dev,AI
@@ -97,6 +97,8 @@ HOST-SUFFIX,gemini.gstatic.com,AI
 HOST-SUFFIX,generativeai.google,AI
 HOST-SUFFIX,generativelanguage.googleapis.com,AI
 HOST-SUFFIX,githubcopilot.com,AI
+HOST-SUFFIX,grazie.ai,AI
+HOST-SUFFIX,grazie.aws.intellij.net,AI
 HOST-SUFFIX,grok.com,AI
 HOST-SUFFIX,grok.x.com,AI
 HOST-SUFFIX,grokipedia.com,AI
@@ -107,6 +109,7 @@ HOST-SUFFIX,hf.space,AI
 HOST-SUFFIX,host.livekit.cloud,AI
 HOST-SUFFIX,huggingface.co,AI
 HOST-SUFFIX,jasper.ai,AI
+HOST-SUFFIX,jetbrains.ai,AI
 HOST-SUFFIX,jules.google,AI
 HOST-SUFFIX,jules.google.com,AI
 HOST-SUFFIX,kiro.dev,AI
@@ -126,6 +129,7 @@ HOST-SUFFIX,midjourney.com,AI
 HOST-SUFFIX,minimax.io,AI
 HOST-SUFFIX,mistral.ai,AI
 HOST-SUFFIX,mozilla.ai,AI
+HOST-SUFFIX,notebook.google.com,AI
 HOST-SUFFIX,notebooklm.google,AI
 HOST-SUFFIX,notebooklm.google.com,AI
 HOST-SUFFIX,oaistatic.com,AI

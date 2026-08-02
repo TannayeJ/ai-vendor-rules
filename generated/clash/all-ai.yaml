@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All AI Services
-# Upstream: v2fly/domain-list-community@c2aeccd66385a149515d7498008e5100f74ab8cf
+# Upstream: v2fly/domain-list-community@660198a50bac2ab10c567d95a472a7b33915d1b0
 # Sources: category-ai-!cn, category-ai-cn, category-ai-ru
 payload:
   - DOMAIN,ai.google.dev
@@ -148,6 +148,8 @@ payload:
   - DOMAIN-SUFFIX,giga.chat
   - DOMAIN-SUFFIX,githubcopilot.com
   - DOMAIN-SUFFIX,gptunnel.ru
+  - DOMAIN-SUFFIX,grazie.ai
+  - DOMAIN-SUFFIX,grazie.aws.intellij.net
   - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,grok.x.com
   - DOMAIN-SUFFIX,grokipedia.com
@@ -164,6 +166,7 @@ payload:
   - DOMAIN-SUFFIX,hunyuan.tencent.com
   - DOMAIN-SUFFIX,instreet.com
   - DOMAIN-SUFFIX,jasper.ai
+  - DOMAIN-SUFFIX,jetbrains.ai
   - DOMAIN-SUFFIX,jules.google
   - DOMAIN-SUFFIX,jules.google.com
   - DOMAIN-SUFFIX,kechuangai.com
@@ -210,6 +213,7 @@ payload:
   - DOMAIN-SUFFIX,myparallelstory.com
   - DOMAIN-SUFFIX,n.cn
   - DOMAIN-SUFFIX,namiso.com
+  - DOMAIN-SUFFIX,notebook.google.com
   - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN-SUFFIX,notebooklm.google.com
   - DOMAIN-SUFFIX,oaistatic.com
