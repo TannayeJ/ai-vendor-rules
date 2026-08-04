@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "upstream": "v2fly/domain-list-community",
-  "upstream_revision": "660198a50bac2ab10c567d95a472a7b33915d1b0",
+  "upstream_revision": "376a27930ed5aa3b9a40d4d3a95fa88af790783e",
   "vendor_count": 65,
   "aggregate_count": 3,
   "entries": [
@@ -579,7 +579,7 @@
       "id": "all-ai",
       "name": "All AI Services",
       "policy": "AI",
-      "rule_count": 292,
+      "rule_count": 294,
       "quantumultx_unsupported_regex": 0,
       "sources": [
         "category-ai-!cn",
@@ -591,7 +591,7 @@
       "id": "all-ai-global",
       "name": "All Non-CN AI Services",
       "policy": "AI",
-      "rule_count": 167,
+      "rule_count": 169,
       "quantumultx_unsupported_regex": 0,
       "sources": [
         "category-ai-!cn"

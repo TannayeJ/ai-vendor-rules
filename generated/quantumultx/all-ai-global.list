@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All Non-CN AI Services
-# Upstream: v2fly/domain-list-community@660198a50bac2ab10c567d95a472a7b33915d1b0
+# Upstream: v2fly/domain-list-community@376a27930ed5aa3b9a40d4d3a95fa88af790783e
 # Sources: category-ai-!cn
 # Policy: AI
 HOST,ai.google.dev,AI
@@ -77,6 +77,8 @@ HOST-SUFFIX,cursor.sh,AI
 HOST-SUFFIX,cursorapi.com,AI
 HOST-SUFFIX,deepmind.com,AI
 HOST-SUFFIX,deepmind.google,AI
+HOST-SUFFIX,deepwiki.com,AI
+HOST-SUFFIX,deepwiki.org,AI
 HOST-SUFFIX,devin.ai,AI
 HOST-SUFFIX,diabrowser.com,AI
 HOST-SUFFIX,diabrowser.engineering,AI
