@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: Zhipu AI / ChatGLM
-# Upstream: v2fly/domain-list-community@b49404a24ef9e6913d2b88b1921c808940e21a57
+# Upstream: v2fly/domain-list-community@98212e79004918e8841a1a6fe0bfeff197aaf3f8
 # Sources: catalog inline domains
 payload:
   - DOMAIN-SUFFIX,bigmodel.cn
