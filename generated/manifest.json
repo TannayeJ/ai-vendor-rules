@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "upstream": "v2fly/domain-list-community",
-  "upstream_revision": "9766e638aac3a844b76293c04f0b63a5711f7cb3",
+  "upstream_revision": "383272bf0a263de550d65fed9b8520aab55dfcb4",
   "vendor_count": 65,
   "aggregate_count": 3,
   "entries": [
