@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: Baidu ERNIE / Wenxin
-# Upstream: v2fly/domain-list-community@90b6bb94709c014918d83a4eb63f3593b7d00eb8
+# Upstream: v2fly/domain-list-community@be33634fee958b9bafd8dfeba54f47a0626f7fa6
 # Sources: catalog inline domains
 # Policy: Baidu AI
 HOST,yiyan.baidu.com,Baidu AI
