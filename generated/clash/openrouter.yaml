@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: OpenRouter
-# Upstream: v2fly/domain-list-community@be33634fee958b9bafd8dfeba54f47a0626f7fa6
+# Upstream: v2fly/domain-list-community@c140194312a64644ee42e7b20e49eec5936102bc
 # Sources: catalog inline domains
 payload:
   - DOMAIN-SUFFIX,openrouter.ai
