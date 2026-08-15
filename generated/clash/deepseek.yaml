@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: DeepSeek
-# Upstream: v2fly/domain-list-community@c140194312a64644ee42e7b20e49eec5936102bc
+# Upstream: v2fly/domain-list-community@5355f5919be7d365e2d80488da42a77f37a7ea2b
 # Sources: deepseek
 payload:
   - DOMAIN-SUFFIX,deepseek.com
