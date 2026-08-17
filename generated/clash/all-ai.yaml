@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All AI Services
-# Upstream: v2fly/domain-list-community@5355f5919be7d365e2d80488da42a77f37a7ea2b
+# Upstream: v2fly/domain-list-community@6f8a5b43db087ae27decef85d80229850bbd40b1
 # Sources: category-ai-!cn, category-ai-cn, category-ai-ru
 payload:
   - DOMAIN,ai.google.dev
@@ -246,6 +246,7 @@ payload:
   - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
   - DOMAIN-SUFFIX,qianwen.aliyun.com
   - DOMAIN-SUFFIX,qianwen.com
+  - DOMAIN-SUFFIX,qianwenai.com
   - DOMAIN-SUFFIX,qoder.com
   - DOMAIN-SUFFIX,qwen.ai
   - DOMAIN-SUFFIX,qwenlm.ai

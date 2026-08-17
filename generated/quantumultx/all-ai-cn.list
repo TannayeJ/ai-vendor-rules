@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All CN AI Services
-# Upstream: v2fly/domain-list-community@5355f5919be7d365e2d80488da42a77f37a7ea2b
+# Upstream: v2fly/domain-list-community@6f8a5b43db087ae27decef85d80229850bbd40b1
 # Sources: category-ai-cn
 # Policy: AI-CN
 HOST,ai.zhaomi.cn,AI-CN
@@ -86,6 +86,7 @@ HOST-SUFFIX,picpic-ai.cn,AI-CN
 HOST-SUFFIX,pixeldance.com,AI-CN
 HOST-SUFFIX,qianwen.aliyun.com,AI-CN
 HOST-SUFFIX,qianwen.com,AI-CN
+HOST-SUFFIX,qianwenai.com,AI-CN
 HOST-SUFFIX,qwen.ai,AI-CN
 HOST-SUFFIX,qwenlm.ai,AI-CN
 HOST-SUFFIX,rwkv.cn,AI-CN

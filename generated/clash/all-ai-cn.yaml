@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All CN AI Services
-# Upstream: v2fly/domain-list-community@5355f5919be7d365e2d80488da42a77f37a7ea2b
+# Upstream: v2fly/domain-list-community@6f8a5b43db087ae27decef85d80229850bbd40b1
 # Sources: category-ai-cn
 payload:
   - DOMAIN,ai.zhaomi.cn
@@ -86,6 +86,7 @@ payload:
   - DOMAIN-SUFFIX,pixeldance.com
   - DOMAIN-SUFFIX,qianwen.aliyun.com
   - DOMAIN-SUFFIX,qianwen.com
+  - DOMAIN-SUFFIX,qianwenai.com
   - DOMAIN-SUFFIX,qwen.ai
   - DOMAIN-SUFFIX,qwenlm.ai
   - DOMAIN-SUFFIX,rwkv.cn

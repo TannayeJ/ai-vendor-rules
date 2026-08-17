@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All AI Services
-# Upstream: v2fly/domain-list-community@5355f5919be7d365e2d80488da42a77f37a7ea2b
+# Upstream: v2fly/domain-list-community@6f8a5b43db087ae27decef85d80229850bbd40b1
 # Sources: category-ai-!cn, category-ai-cn, category-ai-ru
 # Policy: AI
 HOST,ai.google.dev,AI
@@ -246,6 +246,7 @@ HOST-SUFFIX,pplx.ai,AI
 HOST-SUFFIX,proactivebackend-pa.googleapis.com,AI
 HOST-SUFFIX,qianwen.aliyun.com,AI
 HOST-SUFFIX,qianwen.com,AI
+HOST-SUFFIX,qianwenai.com,AI
 HOST-SUFFIX,qoder.com,AI
 HOST-SUFFIX,qwen.ai,AI
 HOST-SUFFIX,qwenlm.ai,AI
