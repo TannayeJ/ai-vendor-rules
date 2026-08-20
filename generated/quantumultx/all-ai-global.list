@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All Non-CN AI Services
-# Upstream: v2fly/domain-list-community@9e582e167ca113188c1758bde9806aa260ba8c87
+# Upstream: v2fly/domain-list-community@c975ccef9c19f005a3bfa7a33255d1b406deea64
 # Sources: category-ai-!cn
 # Policy: AI
 HOST,ai.google.dev,AI
@@ -84,6 +84,7 @@ HOST-SUFFIX,diabrowser.com,AI
 HOST-SUFFIX,diabrowser.engineering,AI
 HOST-SUFFIX,dify.ai,AI
 HOST-SUFFIX,dola.com,AI
+HOST-SUFFIX,dreamgen.com,AI
 HOST-SUFFIX,duck.ai,AI
 HOST-SUFFIX,elevenlabs.com,AI
 HOST-SUFFIX,elevenlabs.io,AI
@@ -114,6 +115,7 @@ HOST-SUFFIX,jasper.ai,AI
 HOST-SUFFIX,jetbrains.ai,AI
 HOST-SUFFIX,jules.google,AI
 HOST-SUFFIX,jules.google.com,AI
+HOST-SUFFIX,kimi.ai,AI
 HOST-SUFFIX,kiro.dev,AI
 HOST-SUFFIX,labs.google,AI
 HOST-SUFFIX,labs.google.com,AI
@@ -130,10 +132,13 @@ HOST-SUFFIX,meta.ai,AI
 HOST-SUFFIX,midjourney.com,AI
 HOST-SUFFIX,minimax.io,AI
 HOST-SUFFIX,mistral.ai,AI
+HOST-SUFFIX,moonshot.ai,AI
 HOST-SUFFIX,mozilla.ai,AI
 HOST-SUFFIX,notebook.google.com,AI
 HOST-SUFFIX,notebooklm.google,AI
 HOST-SUFFIX,notebooklm.google.com,AI
+HOST-SUFFIX,notegpt.io,AI
+HOST-SUFFIX,novelai.net,AI
 HOST-SUFFIX,oaistatic.com,AI
 HOST-SUFFIX,oaistatsig.com,AI
 HOST-SUFFIX,oaiusercontent.com,AI
@@ -160,6 +165,7 @@ HOST-SUFFIX,sider.ai,AI
 HOST-SUFFIX,sora.com,AI
 HOST-SUFFIX,spicywriter.com,AI
 HOST-SUFFIX,stitch.withgoogle.com,AI
+HOST-SUFFIX,talkai.info,AI
 HOST-SUFFIX,tapnow.ai,AI
 HOST-SUFFIX,themeforest.net,AI
 HOST-SUFFIX,trae.ai,AI

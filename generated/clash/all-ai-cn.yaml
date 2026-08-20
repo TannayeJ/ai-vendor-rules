@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All CN AI Services
-# Upstream: v2fly/domain-list-community@9e582e167ca113188c1758bde9806aa260ba8c87
+# Upstream: v2fly/domain-list-community@c975ccef9c19f005a3bfa7a33255d1b406deea64
 # Sources: category-ai-cn
 payload:
   - DOMAIN,ai.zhaomi.cn
@@ -74,7 +74,6 @@ payload:
   - DOMAIN-SUFFIX,miaoda.cn
   - DOMAIN-SUFFIX,miaoyanai.com
   - DOMAIN-SUFFIX,minimaxi.com
-  - DOMAIN-SUFFIX,moonshot.ai
   - DOMAIN-SUFFIX,moonshot.cn
   - DOMAIN-SUFFIX,myparallelstory.com
   - DOMAIN-SUFFIX,n.cn

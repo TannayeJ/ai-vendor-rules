@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All AI Services
-# Upstream: v2fly/domain-list-community@9e582e167ca113188c1758bde9806aa260ba8c87
+# Upstream: v2fly/domain-list-community@c975ccef9c19f005a3bfa7a33255d1b406deea64
 # Sources: category-ai-!cn, category-ai-cn, category-ai-ru
 # Policy: AI
 HOST,ai.google.dev,AI
@@ -128,6 +128,7 @@ HOST-SUFFIX,doubao-dev.com,AI
 HOST-SUFFIX,doubao.com,AI
 HOST-SUFFIX,doubaocdn.com,AI
 HOST-SUFFIX,doudou.com,AI
+HOST-SUFFIX,dreamgen.com,AI
 HOST-SUFFIX,duck.ai,AI
 HOST-SUFFIX,dui.ai,AI
 HOST-SUFFIX,duiopen.com,AI
@@ -172,6 +173,7 @@ HOST-SUFFIX,jetbrains.ai,AI
 HOST-SUFFIX,jules.google,AI
 HOST-SUFFIX,jules.google.com,AI
 HOST-SUFFIX,kechuangai.com,AI
+HOST-SUFFIX,kimi.ai,AI
 HOST-SUFFIX,kimi.com,AI
 HOST-SUFFIX,kiro.dev,AI
 HOST-SUFFIX,kling-ai.com,AI
@@ -218,6 +220,8 @@ HOST-SUFFIX,namiso.com,AI
 HOST-SUFFIX,notebook.google.com,AI
 HOST-SUFFIX,notebooklm.google,AI
 HOST-SUFFIX,notebooklm.google.com,AI
+HOST-SUFFIX,notegpt.io,AI
+HOST-SUFFIX,novelai.net,AI
 HOST-SUFFIX,oaistatic.com,AI
 HOST-SUFFIX,oaistatsig.com,AI
 HOST-SUFFIX,oaiusercontent.com,AI
@@ -263,6 +267,7 @@ HOST-SUFFIX,sleeplesshorizon.cn,AI
 HOST-SUFFIX,sora.com,AI
 HOST-SUFFIX,spicywriter.com,AI
 HOST-SUFFIX,stitch.withgoogle.com,AI
+HOST-SUFFIX,talkai.info,AI
 HOST-SUFFIX,tapnow.ai,AI
 HOST-SUFFIX,tapnow.top,AI
 HOST-SUFFIX,tcwqqdy.guru,AI

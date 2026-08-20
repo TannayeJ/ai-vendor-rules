@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All AI Services
-# Upstream: v2fly/domain-list-community@9e582e167ca113188c1758bde9806aa260ba8c87
+# Upstream: v2fly/domain-list-community@c975ccef9c19f005a3bfa7a33255d1b406deea64
 # Sources: category-ai-!cn, category-ai-cn, category-ai-ru
 payload:
   - DOMAIN,ai.google.dev
@@ -128,6 +128,7 @@ payload:
   - DOMAIN-SUFFIX,doubao.com
   - DOMAIN-SUFFIX,doubaocdn.com
   - DOMAIN-SUFFIX,doudou.com
+  - DOMAIN-SUFFIX,dreamgen.com
   - DOMAIN-SUFFIX,duck.ai
   - DOMAIN-SUFFIX,dui.ai
   - DOMAIN-SUFFIX,duiopen.com
@@ -172,6 +173,7 @@ payload:
   - DOMAIN-SUFFIX,jules.google
   - DOMAIN-SUFFIX,jules.google.com
   - DOMAIN-SUFFIX,kechuangai.com
+  - DOMAIN-SUFFIX,kimi.ai
   - DOMAIN-SUFFIX,kimi.com
   - DOMAIN-SUFFIX,kiro.dev
   - DOMAIN-SUFFIX,kling-ai.com
@@ -218,6 +220,8 @@ payload:
   - DOMAIN-SUFFIX,notebook.google.com
   - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN-SUFFIX,notebooklm.google.com
+  - DOMAIN-SUFFIX,notegpt.io
+  - DOMAIN-SUFFIX,novelai.net
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,oaistatsig.com
   - DOMAIN-SUFFIX,oaiusercontent.com
@@ -263,6 +267,7 @@ payload:
   - DOMAIN-SUFFIX,sora.com
   - DOMAIN-SUFFIX,spicywriter.com
   - DOMAIN-SUFFIX,stitch.withgoogle.com
+  - DOMAIN-SUFFIX,talkai.info
   - DOMAIN-SUFFIX,tapnow.ai
   - DOMAIN-SUFFIX,tapnow.top
   - DOMAIN-SUFFIX,tcwqqdy.guru

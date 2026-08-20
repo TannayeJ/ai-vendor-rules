@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All CN AI Services
-# Upstream: v2fly/domain-list-community@9e582e167ca113188c1758bde9806aa260ba8c87
+# Upstream: v2fly/domain-list-community@c975ccef9c19f005a3bfa7a33255d1b406deea64
 # Sources: category-ai-cn
 # Policy: AI-CN
 HOST,ai.zhaomi.cn,AI-CN
@@ -74,7 +74,6 @@ HOST-SUFFIX,miaibox.com,AI-CN
 HOST-SUFFIX,miaoda.cn,AI-CN
 HOST-SUFFIX,miaoyanai.com,AI-CN
 HOST-SUFFIX,minimaxi.com,AI-CN
-HOST-SUFFIX,moonshot.ai,AI-CN
 HOST-SUFFIX,moonshot.cn,AI-CN
 HOST-SUFFIX,myparallelstory.com,AI-CN
 HOST-SUFFIX,n.cn,AI-CN
