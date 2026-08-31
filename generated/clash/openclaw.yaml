@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: OpenClaw
-# Upstream: v2fly/domain-list-community@06111d32139e3497a20fded97ca2b4424ad87e60
+# Upstream: v2fly/domain-list-community@8f2bb10c3e23b2df982d943db69eae6a0c547583
 # Sources: catalog inline domains
 payload:
   - DOMAIN-SUFFIX,openclaw.ai
