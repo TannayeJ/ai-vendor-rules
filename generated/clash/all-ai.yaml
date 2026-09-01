@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All AI Services
-# Upstream: v2fly/domain-list-community@8f2bb10c3e23b2df982d943db69eae6a0c547583
+# Upstream: v2fly/domain-list-community@654177bb71300a5448037afe98267c6926ef41a3
 # Sources: category-ai-!cn, category-ai-cn, category-ai-ru
 payload:
   - DOMAIN,ai.google.dev
@@ -116,6 +116,7 @@ payload:
   - DOMAIN-SUFFIX,deepmind.com
   - DOMAIN-SUFFIX,deepmind.google
   - DOMAIN-SUFFIX,deepseek.com
+  - DOMAIN-SUFFIX,deepseeksvc.com
   - DOMAIN-SUFFIX,deepwiki.com
   - DOMAIN-SUFFIX,deepwiki.org
   - DOMAIN-SUFFIX,devin.ai
@@ -284,6 +285,7 @@ payload:
   - DOMAIN-SUFFIX,turn.livekit.cloud
   - DOMAIN-SUFFIX,windsurf.build
   - DOMAIN-SUFFIX,windsurf.com
+  - DOMAIN-SUFFIX,workbuddy.cn
   - DOMAIN-SUFFIX,x.ai
   - DOMAIN-SUFFIX,xiaoaiassist.com
   - DOMAIN-SUFFIX,xiaomimimo.com

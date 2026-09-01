@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All AI Services
-# Upstream: v2fly/domain-list-community@8f2bb10c3e23b2df982d943db69eae6a0c547583
+# Upstream: v2fly/domain-list-community@654177bb71300a5448037afe98267c6926ef41a3
 # Sources: category-ai-!cn, category-ai-cn, category-ai-ru
 # Policy: AI
 HOST,ai.google.dev,AI
@@ -116,6 +116,7 @@ HOST-SUFFIX,dbbuilding.fun,AI
 HOST-SUFFIX,deepmind.com,AI
 HOST-SUFFIX,deepmind.google,AI
 HOST-SUFFIX,deepseek.com,AI
+HOST-SUFFIX,deepseeksvc.com,AI
 HOST-SUFFIX,deepwiki.com,AI
 HOST-SUFFIX,deepwiki.org,AI
 HOST-SUFFIX,devin.ai,AI
@@ -284,6 +285,7 @@ HOST-SUFFIX,tripo3d.ai,AI
 HOST-SUFFIX,turn.livekit.cloud,AI
 HOST-SUFFIX,windsurf.build,AI
 HOST-SUFFIX,windsurf.com,AI
+HOST-SUFFIX,workbuddy.cn,AI
 HOST-SUFFIX,x.ai,AI
 HOST-SUFFIX,xiaoaiassist.com,AI
 HOST-SUFFIX,xiaomimimo.com,AI

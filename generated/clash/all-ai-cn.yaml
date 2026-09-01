@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All CN AI Services
-# Upstream: v2fly/domain-list-community@8f2bb10c3e23b2df982d943db69eae6a0c547583
+# Upstream: v2fly/domain-list-community@654177bb71300a5448037afe98267c6926ef41a3
 # Sources: category-ai-cn
 payload:
   - DOMAIN,ai.zhaomi.cn
@@ -37,6 +37,7 @@ payload:
   - DOMAIN-SUFFIX,cueme.cn
   - DOMAIN-SUFFIX,dbbuilding.fun
   - DOMAIN-SUFFIX,deepseek.com
+  - DOMAIN-SUFFIX,deepseeksvc.com
   - DOMAIN-SUFFIX,diandianlife.top
   - DOMAIN-SUFFIX,doubao-dev.com
   - DOMAIN-SUFFIX,doubao.com
@@ -102,6 +103,7 @@ payload:
   - DOMAIN-SUFFIX,trae.cn
   - DOMAIN-SUFFIX,trae.com.cn
   - DOMAIN-SUFFIX,trae.guru
+  - DOMAIN-SUFFIX,workbuddy.cn
   - DOMAIN-SUFFIX,xiaoaiassist.com
   - DOMAIN-SUFFIX,xiaomimimo.com
   - DOMAIN-SUFFIX,xiezuocat.com
