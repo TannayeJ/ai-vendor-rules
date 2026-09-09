@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: Windsurf
-# Upstream: v2fly/domain-list-community@9ff2d61d76ce28edb513920a2727f222793041c0
+# Upstream: v2fly/domain-list-community@5d939545c84e2a534f8e85ba6ffb2b51fa18fb76
 # Sources: windsurf
 payload:
   - DOMAIN-SUFFIX,codeium.com
