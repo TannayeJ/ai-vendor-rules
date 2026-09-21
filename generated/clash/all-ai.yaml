@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All AI Services
-# Upstream: v2fly/domain-list-community@6fe5416797ec88d29a3a1c69ce1431d73b955e88
+# Upstream: v2fly/domain-list-community@8dee9683b99554b777eecb54a894670af46db9b1
 # Sources: category-ai-!cn, category-ai-cn, category-ai-ru
 payload:
   - DOMAIN,ai.google.dev
@@ -141,6 +141,7 @@ payload:
   - DOMAIN-SUFFIX,envatousercontent.com
   - DOMAIN-SUFFIX,faxingbao.com
   - DOMAIN-SUFFIX,flow.google
+  - DOMAIN-SUFFIX,flow.google.com
   - DOMAIN-SUFFIX,gateway.ai.cloudflare.com
   - DOMAIN-SUFFIX,geller-pa.googleapis.com
   - DOMAIN-SUFFIX,gemini.google
@@ -218,6 +219,7 @@ payload:
   - DOMAIN-SUFFIX,myparallelstory.com
   - DOMAIN-SUFFIX,n.cn
   - DOMAIN-SUFFIX,namiso.com
+  - DOMAIN-SUFFIX,notebook.google
   - DOMAIN-SUFFIX,notebook.google.com
   - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN-SUFFIX,notebooklm.google.com

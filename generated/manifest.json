@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "upstream": "v2fly/domain-list-community",
-  "upstream_revision": "6fe5416797ec88d29a3a1c69ce1431d73b955e88",
+  "upstream_revision": "8dee9683b99554b777eecb54a894670af46db9b1",
   "vendor_count": 65,
   "aggregate_count": 3,
   "entries": [
@@ -39,7 +39,7 @@
       "id": "gemini",
       "name": "Google Gemini / DeepMind / NotebookLM",
       "policy": "Gemini",
-      "rule_count": 41,
+      "rule_count": 43,
       "quantumultx_unsupported_regex": 0,
       "sources": [
         "google-deepmind"
@@ -579,7 +579,7 @@
       "id": "all-ai",
       "name": "All AI Services",
       "policy": "AI",
-      "rule_count": 302,
+      "rule_count": 304,
       "quantumultx_unsupported_regex": 0,
       "sources": [
         "category-ai-!cn",
@@ -591,7 +591,7 @@
       "id": "all-ai-global",
       "name": "All Non-CN AI Services",
       "policy": "AI",
-      "rule_count": 175,
+      "rule_count": 177,
       "quantumultx_unsupported_regex": 0,
       "sources": [
         "category-ai-!cn"

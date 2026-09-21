@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: Google Gemini / DeepMind / NotebookLM
-# Upstream: v2fly/domain-list-community@6fe5416797ec88d29a3a1c69ce1431d73b955e88
+# Upstream: v2fly/domain-list-community@8dee9683b99554b777eecb54a894670af46db9b1
 # Sources: google-deepmind
 payload:
   - DOMAIN,ai.google.dev
@@ -25,6 +25,7 @@ payload:
   - DOMAIN-SUFFIX,deepmind.com
   - DOMAIN-SUFFIX,deepmind.google
   - DOMAIN-SUFFIX,flow.google
+  - DOMAIN-SUFFIX,flow.google.com
   - DOMAIN-SUFFIX,geller-pa.googleapis.com
   - DOMAIN-SUFFIX,gemini.google
   - DOMAIN-SUFFIX,gemini.google.com
@@ -36,6 +37,7 @@ payload:
   - DOMAIN-SUFFIX,labs.google
   - DOMAIN-SUFFIX,labs.google.com
   - DOMAIN-SUFFIX,makersuite.google.com
+  - DOMAIN-SUFFIX,notebook.google
   - DOMAIN-SUFFIX,notebook.google.com
   - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN-SUFFIX,notebooklm.google.com

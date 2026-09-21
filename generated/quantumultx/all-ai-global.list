@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All Non-CN AI Services
-# Upstream: v2fly/domain-list-community@6fe5416797ec88d29a3a1c69ce1431d73b955e88
+# Upstream: v2fly/domain-list-community@8dee9683b99554b777eecb54a894670af46db9b1
 # Sources: category-ai-!cn
 # Policy: AI
 HOST,ai.google.dev,AI
@@ -92,6 +92,7 @@ HOST-SUFFIX,envato-static.com,AI
 HOST-SUFFIX,envato.com,AI
 HOST-SUFFIX,envatousercontent.com,AI
 HOST-SUFFIX,flow.google,AI
+HOST-SUFFIX,flow.google.com,AI
 HOST-SUFFIX,gateway.ai.cloudflare.com,AI
 HOST-SUFFIX,geller-pa.googleapis.com,AI
 HOST-SUFFIX,gemini.google,AI
@@ -134,6 +135,7 @@ HOST-SUFFIX,minimax.io,AI
 HOST-SUFFIX,mistral.ai,AI
 HOST-SUFFIX,moonshot.ai,AI
 HOST-SUFFIX,mozilla.ai,AI
+HOST-SUFFIX,notebook.google,AI
 HOST-SUFFIX,notebook.google.com,AI
 HOST-SUFFIX,notebooklm.google,AI
 HOST-SUFFIX,notebooklm.google.com,AI
