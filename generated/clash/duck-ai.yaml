@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: Duck.ai
-# Upstream: v2fly/domain-list-community@8dee9683b99554b777eecb54a894670af46db9b1
+# Upstream: v2fly/domain-list-community@6e3827c78980cd17a849a3a43dc70d5b78219a4e
 # Sources: catalog inline domains
 payload:
   - DOMAIN-SUFFIX,duck.ai
