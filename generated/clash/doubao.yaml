@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: ByteDance Doubao / Coze
-# Upstream: v2fly/domain-list-community@6e3827c78980cd17a849a3a43dc70d5b78219a4e
+# Upstream: v2fly/domain-list-community@c1c2cf0d252871e8739747714df06e8d2671f72f
 # Sources: doubao
 payload:
   - DOMAIN-SUFFIX,api-building.fun
