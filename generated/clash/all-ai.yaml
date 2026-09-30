@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All AI Services
-# Upstream: v2fly/domain-list-community@bcea25493ed28c387660fe49ce1ceb242d2efca0
+# Upstream: v2fly/domain-list-community@2d71342eea1720da57261b55663c9d55619e9b1c
 # Sources: category-ai-!cn, category-ai-cn, category-ai-ru
 payload:
   - DOMAIN,ai.google.dev
@@ -16,6 +16,8 @@ payload:
   - DOMAIN,copilotprodattachments.blob.core.windows.net
   - DOMAIN,cueme-api.quark.cn
   - DOMAIN,daily-cloudcode-pa.googleapis.com
+  - DOMAIN,geminiweb-pa.clients.google.com
+  - DOMAIN,geminiweb-pa.clients6.google.com
   - DOMAIN,notebooklm-pa.googleapis.com
   - DOMAIN,notebooklm.googleapis.com
   - DOMAIN,openaiapi-site.azureedge.net
@@ -182,6 +184,7 @@ payload:
   - DOMAIN-SUFFIX,klingai.com
   - DOMAIN-SUFFIX,labs.google
   - DOMAIN-SUFFIX,labs.google.com
+  - DOMAIN-SUFFIX,labstailwind.pa.googleapis.com
   - DOMAIN-SUFFIX,langchain.com
   - DOMAIN-SUFFIX,liblib.art
   - DOMAIN-SUFFIX,liblib.cloud
@@ -205,6 +208,7 @@ payload:
   - DOMAIN-SUFFIX,mcpworld.com
   - DOMAIN-SUFFIX,meta.ai
   - DOMAIN-SUFFIX,meta.law
+  - DOMAIN-SUFFIX,metaaivm.com
   - DOMAIN-SUFFIX,metaso.cn
   - DOMAIN-SUFFIX,miaibox.com
   - DOMAIN-SUFFIX,miaoda.cn
@@ -216,6 +220,7 @@ payload:
   - DOMAIN-SUFFIX,moonshot.ai
   - DOMAIN-SUFFIX,moonshot.cn
   - DOMAIN-SUFFIX,mozilla.ai
+  - DOMAIN-SUFFIX,muse.ai
   - DOMAIN-SUFFIX,myparallelstory.com
   - DOMAIN-SUFFIX,n.cn
   - DOMAIN-SUFFIX,namiso.com
@@ -238,6 +243,7 @@ payload:
   - DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
   - DOMAIN-SUFFIX,openart.ai
   - DOMAIN-SUFFIX,openclaw.ai
+  - DOMAIN-SUFFIX,opencode.ai
   - DOMAIN-SUFFIX,openrouter.ai
   - DOMAIN-SUFFIX,openspec.dev
   - DOMAIN-SUFFIX,oystermercury.top

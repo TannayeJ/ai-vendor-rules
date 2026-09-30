@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All Non-CN AI Services
-# Upstream: v2fly/domain-list-community@bcea25493ed28c387660fe49ce1ceb242d2efca0
+# Upstream: v2fly/domain-list-community@2d71342eea1720da57261b55663c9d55619e9b1c
 # Sources: category-ai-!cn
 # Policy: AI
 HOST,ai.google.dev,AI
@@ -14,6 +14,8 @@ HOST,copilot-proxy.githubusercontent.com,AI
 HOST,copilot-workspace.githubnext.com,AI
 HOST,copilotprodattachments.blob.core.windows.net,AI
 HOST,daily-cloudcode-pa.googleapis.com,AI
+HOST,geminiweb-pa.clients.google.com,AI
+HOST,geminiweb-pa.clients6.google.com,AI
 HOST,notebooklm-pa.googleapis.com,AI
 HOST,notebooklm.googleapis.com,AI
 HOST,openaiapi-site.azureedge.net,AI
@@ -120,6 +122,7 @@ HOST-SUFFIX,kimi.ai,AI
 HOST-SUFFIX,kiro.dev,AI
 HOST-SUFFIX,labs.google,AI
 HOST-SUFFIX,labs.google.com,AI
+HOST-SUFFIX,labstailwind.pa.googleapis.com,AI
 HOST-SUFFIX,langchain.com,AI
 HOST-SUFFIX,liveperson.net,AI
 HOST-SUFFIX,lmstudio.ai,AI
@@ -130,11 +133,13 @@ HOST-SUFFIX,manus.im,AI
 HOST-SUFFIX,manuscdn.com,AI
 HOST-SUFFIX,marscode.com,AI
 HOST-SUFFIX,meta.ai,AI
+HOST-SUFFIX,metaaivm.com,AI
 HOST-SUFFIX,midjourney.com,AI
 HOST-SUFFIX,minimax.io,AI
 HOST-SUFFIX,mistral.ai,AI
 HOST-SUFFIX,moonshot.ai,AI
 HOST-SUFFIX,mozilla.ai,AI
+HOST-SUFFIX,muse.ai,AI
 HOST-SUFFIX,notebook.google,AI
 HOST-SUFFIX,notebook.google.com,AI
 HOST-SUFFIX,notebooklm.google,AI
@@ -151,6 +156,7 @@ HOST-SUFFIX,openai.com,AI
 HOST-SUFFIX,openai.com.cdn.cloudflare.net,AI
 HOST-SUFFIX,openart.ai,AI
 HOST-SUFFIX,openclaw.ai,AI
+HOST-SUFFIX,opencode.ai,AI
 HOST-SUFFIX,openrouter.ai,AI
 HOST-SUFFIX,openspec.dev,AI
 HOST-SUFFIX,oystermercury.top,AI
