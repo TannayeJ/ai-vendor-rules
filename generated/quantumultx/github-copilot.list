@@ -1,9 +1,11 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: GitHub Copilot
-# Upstream: v2fly/domain-list-community@88305e9df237d81de4d879db17ba535a54be5e14
+# Upstream: v2fly/domain-list-community@e84921279c9142434b43cb84ec6c17f987e025df
 # Sources: github-copilot
 # Policy: GitHub Copilot
 HOST,copilot-proxy.githubusercontent.com,GitHub Copilot
+HOST,copilot-telemetry-service.githubusercontent.com,GitHub Copilot
+HOST,copilot-telemetry.githubusercontent.com,GitHub Copilot
 HOST,copilot-workspace.githubnext.com,GitHub Copilot
 HOST,copilotprodattachments.blob.core.windows.net,GitHub Copilot
 HOST-SUFFIX,githubcopilot.com,GitHub Copilot

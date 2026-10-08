@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All Non-CN AI Services
-# Upstream: v2fly/domain-list-community@88305e9df237d81de4d879db17ba535a54be5e14
+# Upstream: v2fly/domain-list-community@e84921279c9142434b43cb84ec6c17f987e025df
 # Sources: category-ai-!cn
 payload:
   - DOMAIN,ai.google.dev
@@ -11,6 +11,8 @@ payload:
   - DOMAIN,cloudaicompanion.googleapis.com
   - DOMAIN,cloudcode-pa.googleapis.com
   - DOMAIN,copilot-proxy.githubusercontent.com
+  - DOMAIN,copilot-telemetry-service.githubusercontent.com
+  - DOMAIN,copilot-telemetry.githubusercontent.com
   - DOMAIN,copilot-workspace.githubnext.com
   - DOMAIN,copilotprodattachments.blob.core.windows.net
   - DOMAIN,daily-cloudcode-pa.googleapis.com
