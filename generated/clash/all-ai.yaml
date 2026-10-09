@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All AI Services
-# Upstream: v2fly/domain-list-community@e84921279c9142434b43cb84ec6c17f987e025df
+# Upstream: v2fly/domain-list-community@c6adacf29cc4fb05e04651fcf03e00989ef9f797
 # Sources: category-ai-!cn, category-ai-cn, category-ai-ru
 payload:
   - DOMAIN,ai.google.dev
@@ -279,6 +279,7 @@ payload:
   - DOMAIN-SUFFIX,sora.com
   - DOMAIN-SUFFIX,spicywriter.com
   - DOMAIN-SUFFIX,stitch.withgoogle.com
+  - DOMAIN-SUFFIX,syntx.ai
   - DOMAIN-SUFFIX,talkai.info
   - DOMAIN-SUFFIX,tapnow.ai
   - DOMAIN-SUFFIX,tapnow.top

@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All Non-CN AI Services
-# Upstream: v2fly/domain-list-community@e84921279c9142434b43cb84ec6c17f987e025df
+# Upstream: v2fly/domain-list-community@c6adacf29cc4fb05e04651fcf03e00989ef9f797
 # Sources: category-ai-!cn
 # Policy: AI
 HOST,ai.google.dev,AI
@@ -176,6 +176,7 @@ HOST-SUFFIX,sider.ai,AI
 HOST-SUFFIX,sora.com,AI
 HOST-SUFFIX,spicywriter.com,AI
 HOST-SUFFIX,stitch.withgoogle.com,AI
+HOST-SUFFIX,syntx.ai,AI
 HOST-SUFFIX,talkai.info,AI
 HOST-SUFFIX,tapnow.ai,AI
 HOST-SUFFIX,themeforest.net,AI
