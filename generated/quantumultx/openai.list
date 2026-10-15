@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: OpenAI / ChatGPT / Sora
-# Upstream: v2fly/domain-list-community@c6adacf29cc4fb05e04651fcf03e00989ef9f797
+# Upstream: v2fly/domain-list-community@dd4e3c080cee602512768e8109f89fafaa94b8ca
 # Sources: openai
 # Policy: OpenAI
 HOST,openaiapi-site.azureedge.net,OpenAI
