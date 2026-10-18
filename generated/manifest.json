@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "upstream": "v2fly/domain-list-community",
-  "upstream_revision": "dd4e3c080cee602512768e8109f89fafaa94b8ca",
+  "upstream_revision": "10c47db24284b161d45b342247cfb47206590bf6",
   "vendor_count": 65,
   "aggregate_count": 3,
   "entries": [
@@ -19,7 +19,7 @@
       "id": "openai",
       "name": "OpenAI / ChatGPT / Sora",
       "policy": "OpenAI",
-      "rule_count": 20,
+      "rule_count": 21,
       "quantumultx_unsupported_regex": 0,
       "sources": [
         "openai"
@@ -87,7 +87,7 @@
       "id": "cursor",
       "name": "Cursor",
       "policy": "Cursor",
-      "rule_count": 4,
+      "rule_count": 5,
       "quantumultx_unsupported_regex": 0,
       "sources": [
         "cursor"
@@ -579,7 +579,7 @@
       "id": "all-ai",
       "name": "All AI Services",
       "policy": "AI",
-      "rule_count": 314,
+      "rule_count": 317,
       "quantumultx_unsupported_regex": 0,
       "sources": [
         "category-ai-!cn",
@@ -591,7 +591,7 @@
       "id": "all-ai-global",
       "name": "All Non-CN AI Services",
       "policy": "AI",
-      "rule_count": 187,
+      "rule_count": 190,
       "quantumultx_unsupported_regex": 0,
       "sources": [
         "category-ai-!cn"

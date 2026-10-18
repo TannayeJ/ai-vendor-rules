@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All Non-CN AI Services
-# Upstream: v2fly/domain-list-community@dd4e3c080cee602512768e8109f89fafaa94b8ca
+# Upstream: v2fly/domain-list-community@10c47db24284b161d45b342247cfb47206590bf6
 # Sources: category-ai-!cn
 # Policy: AI
 HOST,ai.google.dev,AI
@@ -80,6 +80,7 @@ HOST-SUFFIX,cursor-cdn.com,AI
 HOST-SUFFIX,cursor.com,AI
 HOST-SUFFIX,cursor.sh,AI
 HOST-SUFFIX,cursorapi.com,AI
+HOST-SUFFIX,cursorvm.com,AI
 HOST-SUFFIX,deepmind.com,AI
 HOST-SUFFIX,deepmind.google,AI
 HOST-SUFFIX,deepwiki.com,AI
@@ -157,6 +158,7 @@ HOST-SUFFIX,opal.google,AI
 HOST-SUFFIX,opal.google.com,AI
 HOST-SUFFIX,openai.com,AI
 HOST-SUFFIX,openai.com.cdn.cloudflare.net,AI
+HOST-SUFFIX,openai.org,AI
 HOST-SUFFIX,openart.ai,AI
 HOST-SUFFIX,openclaw.ai,AI
 HOST-SUFFIX,opencode.ai,AI
@@ -183,6 +185,7 @@ HOST-SUFFIX,themeforest.net,AI
 HOST-SUFFIX,trae.ai,AI
 HOST-SUFFIX,tripo3d.ai,AI
 HOST-SUFFIX,turn.livekit.cloud,AI
+HOST-SUFFIX,typesafe.ai,AI
 HOST-SUFFIX,windsurf.build,AI
 HOST-SUFFIX,windsurf.com,AI
 HOST-SUFFIX,x.ai,AI

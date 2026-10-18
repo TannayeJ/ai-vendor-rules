@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All Non-CN AI Services
-# Upstream: v2fly/domain-list-community@dd4e3c080cee602512768e8109f89fafaa94b8ca
+# Upstream: v2fly/domain-list-community@10c47db24284b161d45b342247cfb47206590bf6
 # Sources: category-ai-!cn
 payload:
   - DOMAIN,ai.google.dev
@@ -80,6 +80,7 @@ payload:
   - DOMAIN-SUFFIX,cursor.com
   - DOMAIN-SUFFIX,cursor.sh
   - DOMAIN-SUFFIX,cursorapi.com
+  - DOMAIN-SUFFIX,cursorvm.com
   - DOMAIN-SUFFIX,deepmind.com
   - DOMAIN-SUFFIX,deepmind.google
   - DOMAIN-SUFFIX,deepwiki.com
@@ -157,6 +158,7 @@ payload:
   - DOMAIN-SUFFIX,opal.google.com
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
+  - DOMAIN-SUFFIX,openai.org
   - DOMAIN-SUFFIX,openart.ai
   - DOMAIN-SUFFIX,openclaw.ai
   - DOMAIN-SUFFIX,opencode.ai
@@ -183,6 +185,7 @@ payload:
   - DOMAIN-SUFFIX,trae.ai
   - DOMAIN-SUFFIX,tripo3d.ai
   - DOMAIN-SUFFIX,turn.livekit.cloud
+  - DOMAIN-SUFFIX,typesafe.ai
   - DOMAIN-SUFFIX,windsurf.build
   - DOMAIN-SUFFIX,windsurf.com
   - DOMAIN-SUFFIX,x.ai
