@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All AI Services
-# Upstream: v2fly/domain-list-community@10c47db24284b161d45b342247cfb47206590bf6
+# Upstream: v2fly/domain-list-community@6ee52f2c36634aeabeb9c4ba486ca02cd84c3d4f
 # Sources: category-ai-!cn, category-ai-cn, category-ai-ru
 # Policy: AI
 HOST,ai.google.dev,AI
@@ -198,6 +198,7 @@ HOST-SUFFIX,liveperson.net,AI
 HOST-SUFFIX,lmstudio.ai,AI
 HOST-SUFFIX,lovart.ai,AI
 HOST-SUFFIX,lpsnmedia.net,AI
+HOST-SUFFIX,magnific.com,AI
 HOST-SUFFIX,makersuite.google.com,AI
 HOST-SUFFIX,manus.im,AI
 HOST-SUFFIX,manuscdn.com,AI
