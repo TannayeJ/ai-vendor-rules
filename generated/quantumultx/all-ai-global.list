@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All Non-CN AI Services
-# Upstream: v2fly/domain-list-community@163c0616e2bd4508a80e3edfb8bedf02fadddca8
+# Upstream: v2fly/domain-list-community@e8f6d1e5c4a01cda943c0784ffa834340eeab5ae
 # Sources: category-ai-!cn
 # Policy: AI
 HOST,ai.google.dev,AI
@@ -36,14 +36,18 @@ HOST-SUFFIX,aicode.googleapis.com,AI
 HOST-SUFFIX,aida.googleapis.com,AI
 HOST-SUFFIX,aisandbox-pa.googleapis.com,AI
 HOST-SUFFIX,aistudio.google.com,AI
+HOST-SUFFIX,ant.dev,AI
 HOST-SUFFIX,anthropic.com,AI
+HOST-SUFFIX,anthropic.team,AI
 HOST-SUFFIX,antigravity-unleash.goog,AI
 HOST-SUFFIX,antigravity.google,AI
+HOST-SUFFIX,antspace.dev,AI
 HOST-SUFFIX,anythingllm.com,AI
 HOST-SUFFIX,arena.ai,AI
 HOST-SUFFIX,bard.google.com,AI
 HOST-SUFFIX,cerebras.ai,AI
 HOST-SUFFIX,chat.com,AI
+HOST-SUFFIX,chatbotclaude.com,AI
 HOST-SUFFIX,chatgpt.com,AI
 HOST-SUFFIX,chatgpt.livekit.cloud,AI
 HOST-SUFFIX,chatgpt.site,AI
@@ -53,10 +57,16 @@ HOST-SUFFIX,ciciai.com,AI
 HOST-SUFFIX,ciciaicdn.com,AI
 HOST-SUFFIX,clau.de,AI
 HOST-SUFFIX,claude.ai,AI
+HOST-SUFFIX,claude.app,AI
 HOST-SUFFIX,claude.com,AI
 HOST-SUFFIX,claude.dev,AI
+HOST-SUFFIX,claude.new,AI
+HOST-SUFFIX,claude.site,AI
+HOST-SUFFIX,claudeacademy.com,AI
 HOST-SUFFIX,claudemcpclient.com,AI
 HOST-SUFFIX,claudemcpcontent.com,AI
+HOST-SUFFIX,claudepages.dev,AI
+HOST-SUFFIX,claudestudio.com,AI
 HOST-SUFFIX,claudeusercontent.com,AI
 HOST-SUFFIX,clawhub.ai,AI
 HOST-SUFFIX,clipdrop.co,AI

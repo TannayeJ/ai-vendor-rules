@@ -1,14 +1,24 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: Anthropic / Claude
-# Upstream: v2fly/domain-list-community@163c0616e2bd4508a80e3edfb8bedf02fadddca8
+# Upstream: v2fly/domain-list-community@e8f6d1e5c4a01cda943c0784ffa834340eeab5ae
 # Sources: anthropic
 payload:
   - DOMAIN,servd-anthropic-website.b-cdn.net
+  - DOMAIN-SUFFIX,ant.dev
   - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,anthropic.team
+  - DOMAIN-SUFFIX,antspace.dev
+  - DOMAIN-SUFFIX,chatbotclaude.com
   - DOMAIN-SUFFIX,clau.de
   - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,claude.app
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,claude.dev
+  - DOMAIN-SUFFIX,claude.new
+  - DOMAIN-SUFFIX,claude.site
+  - DOMAIN-SUFFIX,claudeacademy.com
   - DOMAIN-SUFFIX,claudemcpclient.com
   - DOMAIN-SUFFIX,claudemcpcontent.com
+  - DOMAIN-SUFFIX,claudepages.dev
+  - DOMAIN-SUFFIX,claudestudio.com
   - DOMAIN-SUFFIX,claudeusercontent.com
