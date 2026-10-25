@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: Poe
-# Upstream: v2fly/domain-list-community@9cad4889b6f1c51bd84cb8a0d95dbc1a992251a4
+# Upstream: v2fly/domain-list-community@664598567e92d797bea11bb83cf939d1f37e9512
 # Sources: poe
 payload:
   - DOMAIN-SUFFIX,poe.com
