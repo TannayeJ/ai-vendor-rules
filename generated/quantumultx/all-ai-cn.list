@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All CN AI Services
-# Upstream: v2fly/domain-list-community@664598567e92d797bea11bb83cf939d1f37e9512
+# Upstream: v2fly/domain-list-community@8f1acdf69923fde68e1cb6e8a58fb6e501fdaf2f
 # Sources: category-ai-cn
 # Policy: AI-CN
 HOST,ai.zhaomi.cn,AI-CN
@@ -53,6 +53,7 @@ HOST-SUFFIX,happyshrimp.cn,AI-CN
 HOST-SUFFIX,hi-butterfly.cn,AI-CN
 HOST-SUFFIX,hunyuan.tencent.com,AI-CN
 HOST-SUFFIX,instreet.com,AI-CN
+HOST-SUFFIX,kakaxing.com,AI-CN
 HOST-SUFFIX,kechuangai.com,AI-CN
 HOST-SUFFIX,kimi.com,AI-CN
 HOST-SUFFIX,kling-ai.com,AI-CN
