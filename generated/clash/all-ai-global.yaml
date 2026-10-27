@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All Non-CN AI Services
-# Upstream: v2fly/domain-list-community@8f1acdf69923fde68e1cb6e8a58fb6e501fdaf2f
+# Upstream: v2fly/domain-list-community@1b81d3cd34096e5d8cac6bca5935e80f30e990f0
 # Sources: category-ai-!cn
 payload:
   - DOMAIN,ai.google.dev
@@ -8,6 +8,9 @@ payload:
   - DOMAIN,alkalimakersuite-pa.clients6.google.com
   - DOMAIN,antigravity-pa.googleapis.com
   - DOMAIN,antigravity.googleapis.com
+  - DOMAIN,appsgenaiserver-pa.clients.google.com
+  - DOMAIN,appsgenaiserver-pa.clients6.google.com
+  - DOMAIN,appsgenaiserver-pa.googleapis.com
   - DOMAIN,cloudaicompanion.googleapis.com
   - DOMAIN,cloudcode-pa.googleapis.com
   - DOMAIN,copilot-proxy.githubusercontent.com
@@ -44,6 +47,7 @@ payload:
   - DOMAIN-SUFFIX,antspace.dev
   - DOMAIN-SUFFIX,anythingllm.com
   - DOMAIN-SUFFIX,arena.ai
+  - DOMAIN-SUFFIX,artificialanalysis.ai
   - DOMAIN-SUFFIX,bard.google.com
   - DOMAIN-SUFFIX,cerebras.ai
   - DOMAIN-SUFFIX,chat.com
@@ -69,6 +73,7 @@ payload:
   - DOMAIN-SUFFIX,claudestudio.com
   - DOMAIN-SUFFIX,claudeusercontent.com
   - DOMAIN-SUFFIX,clawhub.ai
+  - DOMAIN-SUFFIX,cline.bot
   - DOMAIN-SUFFIX,clipdrop.co
   - DOMAIN-SUFFIX,codeium.com
   - DOMAIN-SUFFIX,codeiumdata.com
@@ -79,6 +84,8 @@ payload:
   - DOMAIN-SUFFIX,comfy.org
   - DOMAIN-SUFFIX,comfyci.org
   - DOMAIN-SUFFIX,comfyregistry.org
+  - DOMAIN-SUFFIX,commandcode.ai
+  - DOMAIN-SUFFIX,context7.com
   - DOMAIN-SUFFIX,copilot-stg.com
   - DOMAIN-SUFFIX,copilot.cloud.microsoft
   - DOMAIN-SUFFIX,copilot.com
@@ -148,6 +155,7 @@ payload:
   - DOMAIN-SUFFIX,manuscdn.com
   - DOMAIN-SUFFIX,marscode.com
   - DOMAIN-SUFFIX,meta.ai
+  - DOMAIN-SUFFIX,metaaiusercontent.com
   - DOMAIN-SUFFIX,metaaivm.com
   - DOMAIN-SUFFIX,midjourney.com
   - DOMAIN-SUFFIX,minimax.io
@@ -160,6 +168,7 @@ payload:
   - DOMAIN-SUFFIX,notebooklm.google
   - DOMAIN-SUFFIX,notebooklm.google.com
   - DOMAIN-SUFFIX,notegpt.io
+  - DOMAIN-SUFFIX,nousresearch.com
   - DOMAIN-SUFFIX,novelai.net
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,oaistatsig.com

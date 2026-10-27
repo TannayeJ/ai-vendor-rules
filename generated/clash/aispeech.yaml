@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: AISpeech / DUI
-# Upstream: v2fly/domain-list-community@8f1acdf69923fde68e1cb6e8a58fb6e501fdaf2f
+# Upstream: v2fly/domain-list-community@1b81d3cd34096e5d8cac6bca5935e80f30e990f0
 # Sources: catalog inline domains
 payload:
   - DOMAIN-SUFFIX,aispeech.com
