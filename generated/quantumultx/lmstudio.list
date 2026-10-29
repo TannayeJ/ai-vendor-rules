@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: LM Studio
-# Upstream: v2fly/domain-list-community@1b81d3cd34096e5d8cac6bca5935e80f30e990f0
+# Upstream: v2fly/domain-list-community@333d8a1810d04600bcb00870155a369954ed37f5
 # Sources: catalog inline domains
 # Policy: LM Studio
 HOST-SUFFIX,lmstudio.ai,LM Studio

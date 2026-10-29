@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All AI Services
-# Upstream: v2fly/domain-list-community@1b81d3cd34096e5d8cac6bca5935e80f30e990f0
+# Upstream: v2fly/domain-list-community@333d8a1810d04600bcb00870155a369954ed37f5
 # Sources: category-ai-!cn, category-ai-cn, category-ai-ru
 payload:
   - DOMAIN,ai.google.dev
