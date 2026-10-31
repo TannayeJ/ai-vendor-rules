@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: Google Gemini / DeepMind / NotebookLM
-# Upstream: v2fly/domain-list-community@333d8a1810d04600bcb00870155a369954ed37f5
+# Upstream: v2fly/domain-list-community@1daade8c4bb957d21d1f5c09c2b050d699e8e96c
 # Sources: google-deepmind
 payload:
   - DOMAIN,ai.google.dev

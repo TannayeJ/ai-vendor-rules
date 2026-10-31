@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All CN AI Services
-# Upstream: v2fly/domain-list-community@333d8a1810d04600bcb00870155a369954ed37f5
+# Upstream: v2fly/domain-list-community@1daade8c4bb957d21d1f5c09c2b050d699e8e96c
 # Sources: category-ai-cn
 # Policy: AI-CN
 HOST,ai.zhaomi.cn,AI-CN
@@ -46,6 +46,9 @@ HOST-SUFFIX,doudou.com,AI-CN
 HOST-SUFFIX,dui.ai,AI-CN
 HOST-SUFFIX,duiopen.com,AI-CN
 HOST-SUFFIX,dumate.cn,AI-CN
+HOST-SUFFIX,favonis.cloud,AI-CN
+HOST-SUFFIX,favonis.com,AI-CN
+HOST-SUFFIX,favonis.space,AI-CN
 HOST-SUFFIX,faxingbao.com,AI-CN
 HOST-SUFFIX,hailuoai.com,AI-CN
 HOST-SUFFIX,happyhorse.cn,AI-CN
