@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "upstream": "v2fly/domain-list-community",
-  "upstream_revision": "1daade8c4bb957d21d1f5c09c2b050d699e8e96c",
+  "upstream_revision": "01add61fbaf719b55673d969615cd328e80f214c",
   "vendor_count": 65,
   "aggregate_count": 3,
   "entries": [
@@ -403,7 +403,7 @@
       "id": "doubao",
       "name": "ByteDance Doubao / Coze",
       "policy": "Doubao",
-      "rule_count": 32,
+      "rule_count": 33,
       "quantumultx_unsupported_regex": 0,
       "sources": [
         "doubao"
@@ -579,7 +579,7 @@
       "id": "all-ai",
       "name": "All AI Services",
       "policy": "AI",
-      "rule_count": 341,
+      "rule_count": 342,
       "quantumultx_unsupported_regex": 0,
       "sources": [
         "category-ai-!cn",
@@ -601,7 +601,7 @@
       "id": "all-ai-cn",
       "name": "All CN AI Services",
       "policy": "AI-CN",
-      "rule_count": 119,
+      "rule_count": 120,
       "quantumultx_unsupported_regex": 0,
       "sources": [
         "category-ai-cn"

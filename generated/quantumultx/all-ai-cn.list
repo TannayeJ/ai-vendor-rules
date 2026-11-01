@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All CN AI Services
-# Upstream: v2fly/domain-list-community@1daade8c4bb957d21d1f5c09c2b050d699e8e96c
+# Upstream: v2fly/domain-list-community@01add61fbaf719b55673d969615cd328e80f214c
 # Sources: category-ai-cn
 # Policy: AI-CN
 HOST,ai.zhaomi.cn,AI-CN
@@ -41,6 +41,7 @@ HOST-SUFFIX,deepseeksvc.com,AI-CN
 HOST-SUFFIX,diandianlife.top,AI-CN
 HOST-SUFFIX,doubao-dev.com,AI-CN
 HOST-SUFFIX,doubao.com,AI-CN
+HOST-SUFFIX,doubaoapps.com,AI-CN
 HOST-SUFFIX,doubaocdn.com,AI-CN
 HOST-SUFFIX,doudou.com,AI-CN
 HOST-SUFFIX,dui.ai,AI-CN

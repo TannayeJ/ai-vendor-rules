@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: ByteDance Doubao / Coze
-# Upstream: v2fly/domain-list-community@1daade8c4bb957d21d1f5c09c2b050d699e8e96c
+# Upstream: v2fly/domain-list-community@01add61fbaf719b55673d969615cd328e80f214c
 # Sources: doubao
 payload:
   - DOMAIN-SUFFIX,api-building.fun
@@ -25,6 +25,7 @@ payload:
   - DOMAIN-SUFFIX,dbbuilding.fun
   - DOMAIN-SUFFIX,doubao-dev.com
   - DOMAIN-SUFFIX,doubao.com
+  - DOMAIN-SUFFIX,doubaoapps.com
   - DOMAIN-SUFFIX,doubaocdn.com
   - DOMAIN-SUFFIX,hi-butterfly.cn
   - DOMAIN-SUFFIX,instreet.com
