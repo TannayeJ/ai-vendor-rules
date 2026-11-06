@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: MCP World
-# Upstream: v2fly/domain-list-community@3895d9a3a76de2c1598a10c5fefc38e3481117fa
+# Upstream: v2fly/domain-list-community@4af75ecfbd62c077f9f3ae68b0ae21b89fda1c60
 # Sources: catalog inline domains
 payload:
   - DOMAIN-SUFFIX,mcpworld.com
