@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All Non-CN AI Services
-# Upstream: v2fly/domain-list-community@4af75ecfbd62c077f9f3ae68b0ae21b89fda1c60
+# Upstream: v2fly/domain-list-community@6766d09f4a951f4f11d822891a9736606cd910ac
 # Sources: category-ai-!cn
 # Policy: AI
 HOST,ai.google.dev,AI
@@ -21,8 +21,10 @@ HOST,copilotprodattachments.blob.core.windows.net,AI
 HOST,daily-cloudcode-pa.googleapis.com,AI
 HOST,geminiweb-pa.clients.google.com,AI
 HOST,geminiweb-pa.clients6.google.com,AI
+HOST,http-intake.logs.us5.datadoghq.com,AI
 HOST,notebooklm-pa.googleapis.com,AI
 HOST,notebooklm.googleapis.com,AI
+HOST,o1158394.ingest.us.sentry.io,AI
 HOST,openaiapi-site.azureedge.net,AI
 HOST,openaiassets.blob.core.windows.net,AI
 HOST,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,AI

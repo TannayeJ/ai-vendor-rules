@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All AI Services
-# Upstream: v2fly/domain-list-community@4af75ecfbd62c077f9f3ae68b0ae21b89fda1c60
+# Upstream: v2fly/domain-list-community@6766d09f4a951f4f11d822891a9736606cd910ac
 # Sources: category-ai-!cn, category-ai-cn, category-ai-ru
 payload:
   - DOMAIN,ai.google.dev
@@ -23,8 +23,10 @@ payload:
   - DOMAIN,daily-cloudcode-pa.googleapis.com
   - DOMAIN,geminiweb-pa.clients.google.com
   - DOMAIN,geminiweb-pa.clients6.google.com
+  - DOMAIN,http-intake.logs.us5.datadoghq.com
   - DOMAIN,notebooklm-pa.googleapis.com
   - DOMAIN,notebooklm.googleapis.com
+  - DOMAIN,o1158394.ingest.us.sentry.io
   - DOMAIN,openaiapi-site.azureedge.net
   - DOMAIN,openaiassets.blob.core.windows.net
   - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
@@ -36,6 +38,7 @@ payload:
   - DOMAIN,servd-anthropic-website.b-cdn.net
   - DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
   - DOMAIN-SUFFIX,agentclientprotocol.com
+  - DOMAIN-SUFFIX,ai-indeed.com
   - DOMAIN-SUFFIX,ai.studio
   - DOMAIN-SUFFIX,aicode.googleapis.com
   - DOMAIN-SUFFIX,aida.googleapis.com
@@ -299,6 +302,12 @@ payload:
   - DOMAIN-SUFFIX,rwkv.cn
   - DOMAIN-SUFFIX,rwkv.com
   - DOMAIN-SUFFIX,safeskill.cn
+  - DOMAIN-SUFFIX,senseaudio.cn
+  - DOMAIN-SUFFIX,senseavatar.com
+  - DOMAIN-SUFFIX,sensecore.cn
+  - DOMAIN-SUFFIX,sensefoundry.cn
+  - DOMAIN-SUFFIX,sensenova.cn
+  - DOMAIN-SUFFIX,sensetime.com
   - DOMAIN-SUFFIX,shunjing.xin
   - DOMAIN-SUFFIX,sider.ai
   - DOMAIN-SUFFIX,skillhub.cn
@@ -328,6 +337,7 @@ payload:
   - DOMAIN-SUFFIX,workbuddy.cn
   - DOMAIN-SUFFIX,x.ai
   - DOMAIN-SUFFIX,xiaoaiassist.com
+  - DOMAIN-SUFFIX,xiaohuanxiong.com
   - DOMAIN-SUFFIX,xiaomimimo.com
   - DOMAIN-SUFFIX,xiezuocat.com
   - DOMAIN-SUFFIX,xinghuo.xfyun.cn

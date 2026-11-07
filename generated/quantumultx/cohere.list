@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: Cohere
-# Upstream: v2fly/domain-list-community@4af75ecfbd62c077f9f3ae68b0ae21b89fda1c60
+# Upstream: v2fly/domain-list-community@6766d09f4a951f4f11d822891a9736606cd910ac
 # Sources: catalog inline domains
 # Policy: Cohere
 HOST-SUFFIX,cohere.ai,Cohere

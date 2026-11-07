@@ -1,10 +1,11 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All CN AI Services
-# Upstream: v2fly/domain-list-community@4af75ecfbd62c077f9f3ae68b0ae21b89fda1c60
+# Upstream: v2fly/domain-list-community@6766d09f4a951f4f11d822891a9736606cd910ac
 # Sources: category-ai-cn
 # Policy: AI-CN
 HOST,ai.zhaomi.cn,AI-CN
 HOST,cueme-api.quark.cn,AI-CN
+HOST-SUFFIX,ai-indeed.com,AI-CN
 HOST-SUFFIX,aispeech.com,AI-CN
 HOST-SUFFIX,antafu.com,AI-CN
 HOST-SUFFIX,antaq.com,AI-CN
@@ -97,6 +98,12 @@ HOST-SUFFIX,qwenlm.ai,AI-CN
 HOST-SUFFIX,rwkv.cn,AI-CN
 HOST-SUFFIX,rwkv.com,AI-CN
 HOST-SUFFIX,safeskill.cn,AI-CN
+HOST-SUFFIX,senseaudio.cn,AI-CN
+HOST-SUFFIX,senseavatar.com,AI-CN
+HOST-SUFFIX,sensecore.cn,AI-CN
+HOST-SUFFIX,sensefoundry.cn,AI-CN
+HOST-SUFFIX,sensenova.cn,AI-CN
+HOST-SUFFIX,sensetime.com,AI-CN
 HOST-SUFFIX,shunjing.xin,AI-CN
 HOST-SUFFIX,skillhub.cn,AI-CN
 HOST-SUFFIX,sleeplesshorizon.cn,AI-CN
@@ -110,6 +117,7 @@ HOST-SUFFIX,trae.com.cn,AI-CN
 HOST-SUFFIX,trae.guru,AI-CN
 HOST-SUFFIX,workbuddy.cn,AI-CN
 HOST-SUFFIX,xiaoaiassist.com,AI-CN
+HOST-SUFFIX,xiaohuanxiong.com,AI-CN
 HOST-SUFFIX,xiaomimimo.com,AI-CN
 HOST-SUFFIX,xiezuocat.com,AI-CN
 HOST-SUFFIX,xinghuo.xfyun.cn,AI-CN

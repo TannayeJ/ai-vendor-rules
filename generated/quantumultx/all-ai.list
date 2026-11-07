@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All AI Services
-# Upstream: v2fly/domain-list-community@4af75ecfbd62c077f9f3ae68b0ae21b89fda1c60
+# Upstream: v2fly/domain-list-community@6766d09f4a951f4f11d822891a9736606cd910ac
 # Sources: category-ai-!cn, category-ai-cn, category-ai-ru
 # Policy: AI
 HOST,ai.google.dev,AI
@@ -23,8 +23,10 @@ HOST,cueme-api.quark.cn,AI
 HOST,daily-cloudcode-pa.googleapis.com,AI
 HOST,geminiweb-pa.clients.google.com,AI
 HOST,geminiweb-pa.clients6.google.com,AI
+HOST,http-intake.logs.us5.datadoghq.com,AI
 HOST,notebooklm-pa.googleapis.com,AI
 HOST,notebooklm.googleapis.com,AI
+HOST,o1158394.ingest.us.sentry.io,AI
 HOST,openaiapi-site.azureedge.net,AI
 HOST,openaiassets.blob.core.windows.net,AI
 HOST,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,AI
@@ -36,6 +38,7 @@ HOST,production-openaicom-storage.azureedge.net,AI
 HOST,servd-anthropic-website.b-cdn.net,AI
 HOST,webchannel-alkalimakersuite-pa.clients6.google.com,AI
 HOST-SUFFIX,agentclientprotocol.com,AI
+HOST-SUFFIX,ai-indeed.com,AI
 HOST-SUFFIX,ai.studio,AI
 HOST-SUFFIX,aicode.googleapis.com,AI
 HOST-SUFFIX,aida.googleapis.com,AI
@@ -299,6 +302,12 @@ HOST-SUFFIX,rugpt.io,AI
 HOST-SUFFIX,rwkv.cn,AI
 HOST-SUFFIX,rwkv.com,AI
 HOST-SUFFIX,safeskill.cn,AI
+HOST-SUFFIX,senseaudio.cn,AI
+HOST-SUFFIX,senseavatar.com,AI
+HOST-SUFFIX,sensecore.cn,AI
+HOST-SUFFIX,sensefoundry.cn,AI
+HOST-SUFFIX,sensenova.cn,AI
+HOST-SUFFIX,sensetime.com,AI
 HOST-SUFFIX,shunjing.xin,AI
 HOST-SUFFIX,sider.ai,AI
 HOST-SUFFIX,skillhub.cn,AI
@@ -328,6 +337,7 @@ HOST-SUFFIX,windsurf.com,AI
 HOST-SUFFIX,workbuddy.cn,AI
 HOST-SUFFIX,x.ai,AI
 HOST-SUFFIX,xiaoaiassist.com,AI
+HOST-SUFFIX,xiaohuanxiong.com,AI
 HOST-SUFFIX,xiaomimimo.com,AI
 HOST-SUFFIX,xiezuocat.com,AI
 HOST-SUFFIX,xinghuo.xfyun.cn,AI
