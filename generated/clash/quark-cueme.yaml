@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: Quark CueMe
-# Upstream: v2fly/domain-list-community@6766d09f4a951f4f11d822891a9736606cd910ac
+# Upstream: v2fly/domain-list-community@e8d7a10a15bf662c927a40a3aa680bae86379608
 # Sources: catalog inline domains
 payload:
   - DOMAIN,cueme-api.quark.cn
