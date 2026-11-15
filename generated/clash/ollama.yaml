@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: Ollama
-# Upstream: v2fly/domain-list-community@777d056afe68b2643c1ef15f80e7bde3dfa149b1
+# Upstream: v2fly/domain-list-community@3e5a6807b0f31268e96b321440564fc809996b22
 # Sources: catalog inline domains
 payload:
   - DOMAIN-SUFFIX,ollama.com
