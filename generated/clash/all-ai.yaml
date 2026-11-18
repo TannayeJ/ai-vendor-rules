@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All AI Services
-# Upstream: v2fly/domain-list-community@41504eae2a11f305fe88cfc605cf6c105a80bf5a
+# Upstream: v2fly/domain-list-community@178b9452b28a254a97d24e56c84babbe3e3e3dda
 # Sources: category-ai-!cn, category-ai-cn, category-ai-ru
 payload:
   - DOMAIN,ai.google.dev
@@ -164,6 +164,7 @@ payload:
   - DOMAIN-SUFFIX,dumate.cn
   - DOMAIN-SUFFIX,elevenlabs.com
   - DOMAIN-SUFFIX,elevenlabs.io
+  - DOMAIN-SUFFIX,elevenlabsusercontent.com
   - DOMAIN-SUFFIX,envato-static.com
   - DOMAIN-SUFFIX,envato.com
   - DOMAIN-SUFFIX,envatousercontent.com

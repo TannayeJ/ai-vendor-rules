@@ -1,7 +1,8 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: ElevenLabs
-# Upstream: v2fly/domain-list-community@41504eae2a11f305fe88cfc605cf6c105a80bf5a
+# Upstream: v2fly/domain-list-community@178b9452b28a254a97d24e56c84babbe3e3e3dda
 # Sources: elevenlabs
 # Policy: ElevenLabs
 HOST-SUFFIX,elevenlabs.com,ElevenLabs
 HOST-SUFFIX,elevenlabs.io,ElevenLabs
+HOST-SUFFIX,elevenlabsusercontent.com,ElevenLabs
