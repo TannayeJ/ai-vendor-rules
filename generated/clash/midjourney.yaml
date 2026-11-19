@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: Midjourney
-# Upstream: v2fly/domain-list-community@178b9452b28a254a97d24e56c84babbe3e3e3dda
+# Upstream: v2fly/domain-list-community@bc3a8f5e24792303cf82bfff33b1ff164a0e4b3c
 # Sources: catalog inline domains
 payload:
   - DOMAIN-SUFFIX,midjourney.com
