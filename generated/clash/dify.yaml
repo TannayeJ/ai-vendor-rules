@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: Dify
-# Upstream: v2fly/domain-list-community@ffb513217b9cb22835eb74a39a907d77742ce68f
+# Upstream: v2fly/domain-list-community@810aa5258c883f5a2a6fd43cf058d01db0f06be5
 # Sources: catalog inline domains
 payload:
   - DOMAIN-SUFFIX,dify.ai
