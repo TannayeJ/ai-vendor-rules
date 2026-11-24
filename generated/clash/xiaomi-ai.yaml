@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: Xiaomi AI
-# Upstream: v2fly/domain-list-community@dff1013c77ee24daaffb2168b5b425894a9f87bc
+# Upstream: v2fly/domain-list-community@98c43cad27fa8f02043858763709fe4a95432ffb
 # Sources: xiaomi-ai
 payload:
   - DOMAIN-SUFFIX,miaibox.com

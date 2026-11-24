@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: Google Gemini / DeepMind / NotebookLM
-# Upstream: v2fly/domain-list-community@dff1013c77ee24daaffb2168b5b425894a9f87bc
+# Upstream: v2fly/domain-list-community@98c43cad27fa8f02043858763709fe4a95432ffb
 # Sources: google-deepmind
 # Policy: Gemini
 HOST,ai.google.dev,Gemini
@@ -35,6 +35,7 @@ HOST-SUFFIX,geller-pa.googleapis.com,Gemini
 HOST-SUFFIX,gemini.google,Gemini
 HOST-SUFFIX,gemini.google.com,Gemini
 HOST-SUFFIX,gemini.gstatic.com,Gemini
+HOST-SUFFIX,gemma.ai,Gemini
 HOST-SUFFIX,generativeai.google,Gemini
 HOST-SUFFIX,generativelanguage.googleapis.com,Gemini
 HOST-SUFFIX,jules.google,Gemini
