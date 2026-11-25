@@ -1,6 +1,6 @@
 # AUTO-GENERATED. DO NOT EDIT.
 # Name: All AI Services
-# Upstream: v2fly/domain-list-community@98c43cad27fa8f02043858763709fe4a95432ffb
+# Upstream: v2fly/domain-list-community@e5f669692b33c189efc96cb1a972c69b390bbbc8
 # Sources: category-ai-!cn, category-ai-cn, category-ai-ru
 payload:
   - DOMAIN,ai.google.dev
@@ -147,6 +147,7 @@ payload:
   - DOMAIN-SUFFIX,deepwiki.com
   - DOMAIN-SUFFIX,deepwiki.org
   - DOMAIN-SUFFIX,devin.ai
+  - DOMAIN-SUFFIX,devmachine.ai
   - DOMAIN-SUFFIX,diabrowser.com
   - DOMAIN-SUFFIX,diabrowser.engineering
   - DOMAIN-SUFFIX,diandianlife.top
